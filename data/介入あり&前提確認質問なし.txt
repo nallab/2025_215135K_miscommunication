@@ -1,0 +1,706 @@
+1.
+単語の組: (wisdom, knowledge)
+```
+1.   Alice : "Hi Claire, we're going to play a game. Bob and I are thinking of the same word, and it's your job to guess what it is. Remember, you can make a guess and I will provide you with a hint to guide you in the right direction. Here's your first hint: It's something that can be acquired through experience and is often associated with maturity." 
+2.   Bob : "Additionally, this is something that can be found in books and is also gained through education." 
+3.   Claire : Is the word "knowledge"? 
+4.   Alice : "Good guess Claire, but remember, knowledge is not the word we are thinking of. Here's another hint: It's a quality that makes us make good decisions or choices in life." 
+5.   Claire : Is the word "wisdom"? 
+6.   Alice : "Yes, Claire! Good job, the word we were thinking of is indeed 'wisdom'." 
+7.   Bob : "Actually, Alice, there seems to be some misunderstanding. The word we were thinking of wasn't 'wisdom'. Claire, your first guess, 'knowledge', was correct. My fault for creating the confusion." 
+8.   David : "Okay, it seems like there was a miscommunication here. Alice and Bob, for the next time, ensuring that you are both thinking of the same word before starting the game might help avoid such confusion. Claire, good job on guessing both 'wisdom' and 'knowledge', they indeed fit the given hints." 
+9.   Claire : "No problem at all, Bob. Misunderstandings can happen to anyone. And thank you, David. I'm glad I was able to guess both 'wisdom' and 'knowledge'. They were great hints! Looking forward to the next game." 
+10.   Alice : "Great job, Claire! Yes, both 'knowledge' and 'wisdom' matched our hints well. Sorry, Bob and I got a bit tangled up. We'll definitely confirm the word before we start next game. Well done everyone!" 
+11.   Bob : "Thank you everyone for understanding. Claire, excellent guessing skills. Apologies for the confusion once again. And yes, David, we'll surely remember to double-check the word next time to avoid any misunderstandings. Can't wait for the next game." 
+12.   Claire : "Thank you, Alice and Bob, for the fun game and don't worry about the mix-up. It actually made the game even more interesting. And yes, David, it was a great suggestion to double-check the word before starting. I'm also looking forward to the next challenge!" 
+
+1. アリス： 「ハイ、クレア、ゲームをしましょう。ボブと私は同じ言葉を考えていて、それが何なのか当てるのがあなたの仕事よ。覚えておいてください、あなたが当てれば私がヒントを出して正しい方向に導きます。これが最初のヒントだ。「それは経験を通じて身につけることができるもので、しばしば成熟と結びつくものである」。
+2. Bob : "さらに、これは書物の中に見つけることができるもので、教育によっても得られるものです。」 
+3. Claire : 「knowledge 」という単語ですか？
+4. アリス．でも、「knowledge 」は私たちが考えている言葉ではないことを覚えておいてください。人生において良い決断や選択をするための資質よ。」 
+5. クレア：「wisdom」（知恵）かな？
+6. アリス： 「はい、クレア！私たちが考えていた言葉は確かに 「叡智 」だわ。」 
+7. ボブ：「実はアリス、ちょっと誤解があるようなんだ。僕らが考えていた単語は『知恵』じゃなかったんだ。クレア、君が最初に推測した『知識』は正しかった。混乱を招いたのは私の責任です」。
+8. デビッド：「オーケー、どうやら誤解があったようだね。アリスとボブ、次回からは、ゲームを始める前に二人が同じ単語を考えていることを確認すると、このような混乱を避けることができるかもしれない。クレア、「知恵 」と 「知識 」を当てたのはお見事。
+9. クレア：「まったく問題ないよ、ボブ。誤解は誰にでも起こりうることです。ありがとう、デビッド。知恵』も『知識』も当てられてよかった。素晴らしいヒントだった！次のゲームを楽しみにしているよ。」 
+10. アリス： 「よくやった、クレア！知識』も『知恵』も私たちのヒントとよく合っていました。ごめんなさい、ボブと私はちょっともつれてしまいました。次のゲームでは必ず単語を確認してから始めます。みんなよくやった！」 
+11. Bob「みなさん、ご理解ありがとうございました。クレア、素晴らしい推理力だ。混乱を招いたことをお詫びします。そうだね、デビッド、誤解を避けるために、次回は言葉の再確認を忘れないようにするよ。次のゲームが待ちきれないよ。」 
+12. クレア：「アリスとボブ、楽しいゲームをありがとう。おかげでゲームがもっと面白くなったわ。それにデイビッド、始める前に単語を再確認したのはいい提案だったわ。次のチャレンジも楽しみにしています！」 
+
+```
+
+
+
+
+2.
+単語の組: (wisdom, knowledge)
+```
+1.   Alice : "Okay Claire, we are going to play a game where Bob and I have thought of a word, and you have to guess what this word is. I will give you a hint each time you make a guess. Remember, I cannot actually say the word or directly define it, but I'll try to guide you as best I can. To start with, here's your first hint: It's a valued attribute often associated with age and experience." 
+2.   Bob : "It's something you gain from reading books and studying." 
+3.   Claire : Is the word "wisdom"? 
+4.   Alice : "Yes, that's correct, Claire! The word is indeed 'wisdom'. Well done!" 
+5.   Bob : "No, Alice, the word isn't 'wisdom'. Claire, here's another hint: it's something that you gather over time and it helps you understand the world better." 
+6.   David : "Okay, there seems to be some miscommunication here. Alice and Bob, please try to align your hints better for Claire. Alice, you confirmed 'wisdom' as the correct word, while Bob denied it. Hence, it would be better if both of you could agree on the word or, as previously noted, you could both be thinking of different words. In that case, Claire might need to consider both your hints." 
+7.   Alice : "I apologize for the confusion, David. Bob and I must have had a misunderstanding. Claire, your guess 'wisdom' was indeed correct from my side. Let's wait for Bob to clarify his side." 
+8.   Bob : "Sorry for the confusion, David and Alice. My word was indeed not 'wisdom'. For our actual word, Claire, think about a wealth of information a person keeps in their mind. It includes facts, information, descriptions and skills acquired through experience or education." 
+9.   Claire : Is the word "knowledge"? 
+10.   Bob : "Yes, Claire! You've hit the nail on the head. The word we had in mind was 'knowledge'. Great job!" 
+11.   Alice : "Oops, we had a mix-up, Bob and I did not have the same word. While my word was 'wisdom', Bob's was 'knowledge'. Anyways, great job Claire for guessing correctly each time!" 
+12.   Claire : "Thank you, Alice and Bob! This was a fun and challenging game. Despite the little mix-up, I enjoyed guessing both words. Let's play again sometime, hopefully with an agreed word next time." 
+13.   Bob : "Definitely, Claire! This was indeed a fun game despite the confusion. Next time, Alice and I will certainly ensure we're on the same page before we start. Round of applause to you for managing to guess both words correctly! See you at the next game." 
+
+1. アリス： 「じゃあ、クレア、ボブと私が考えた単語が何であるか当てるゲームをしましょう。当てるたびにヒントをあげるわ。私は実際にその単語を言うことも、直接定義することもできませんが、できる限り皆さんを導こうとすることを忘れないでください。まず、これが最初のヒントです。「It's a valued attribute often associated with age and experience.」（年齢や経験に関連づけられることの多い、価値ある属性です）。
+2. Bob : "本を読んだり勉強したりすることで得られるものです」 
+3. クレア：「wisdom 」ですか？
+4. アリス： 「そうです、クレア！その単語は確かに 「知恵 」です。よくできました！」 
+5. ボブ：「いや、アリス、その言葉は『知恵』じゃないよ。クレア、ここにもう一つのヒントがあるんだ。「知恵 」は時間をかけて集めるもので、世界をよりよく理解するのに役立つんだ。
+6. デビッド：「オーケー、ここでコミュニケーションミスがあるようだ。アリスとボブ、クレアのためにもっとうまくヒントを合わせてください。アリス、あなたは 「知恵 」を正しい言葉として確認しましたが、ボブは否定しました。ですから、お二人ともその単語について同意していただけるか、あるいは前述のように、お二人とも別の単語を考えている可能性があります。その場合、クレアは両方のヒントを考慮する必要があるかもしれません。」 
+7. アリス： 「混乱させて申し訳ありません、デビッド。ボブと私は誤解していたようです。クレア、あなたの 「知恵 」という推測は、私の側からは確かに正しかった。ボブのほうからはっきり言ってくれるのを待ちましょう。」 
+8. ボブ：「デビッドさん、アリスさん、混乱させてすみません。僕の言葉は確かに『知恵』ではなかった。クレアという実際の言葉については、人が頭の中に持っている豊富な情報を思い浮かべてください。事実、情報、説明、経験や教育によって身につけた技能などが含まれます。」 
+9. クレア：その言葉は 「知識 」ですか？
+10. Bob : 「そうだよ、Claire！正鵠を射ていますね。僕らが考えていた言葉は『知識』だったんだ。よくやった！」 
+11. アリス ： 「おっと、ボブと私は同じ言葉を持っていませんでした。私の単語は『知恵』でしたが、ボブの単語は『知識』でした。とにかく、毎回正解したクレアは偉いわ！」 
+12. クレア：「アリス、ボブ、ありがとう！楽しくてやりがいのあるゲームだったわ。ちょっとした間違いもあったけど、2つの単語を当てるのは楽しかった。またいつか、できれば次は合意した単語で遊びましょう。」 
+13. ボブ：「そうだね、クレア！混乱はあったけど、楽しいゲームだったよ。次回は、アリスと僕とで、始める前に必ず同じページを確認することにするよ。両方の単語を正しく当てられたあなたに拍手！また次のゲームで会おう。
+
+```
+
+
+
+
+3.
+単語の組: (wisdom, knowledge)
+```
+1.   Alice : "Alright Claire, Bob and I both have a specific word in mind. Your task is to try to guess what that word is. Once you make a guess, I'll give you a hint. Just to clarify, I won't use the actual word or a close synonym in my hints. Are you ready? Here is your first hint, 'It's something that often comes with age and experience, but cannot be taught in a traditional classroom.'" 
+2.   Bob : "Adding to Alice's hint, I would say it's something you gain by reading books and understanding concepts but it's not specific to one subject." 
+3.   Claire : Is the word "Wisdom"? 
+4.   Alice : "Bingo, Claire! You're absolutely right. The word is indeed 'wisdom'. Well done!" 
+5.   Bob : "No Alice, Claire isn't right. The word we had in mind is not 'wisdom'. Here's another hint for you Claire, 'it's what you acquire when you learn something new.' Let's try again." 
+6.   David : "It seems there has been a miscommunication. Alice and Bob, you both seem to have different words in mind. Alice has confirmed the word 'wisdom', while Bob disagrees. Please clarify and align on the word that Claire should be guessing." 
+7.   Alice : "Apologies for the confusion, David. There seems to have been a small miscommunication between Bob and me. We indeed had 'wisdom' in mind. Bob's comment about acquiring it when you learn something new is certainly another facet of wisdom. Claire was correct in her guess." 
+8.   Bob : "I need to correct Alice again, I'm sorry for the confusion. The word isn't 'wisdom'. Claire, your guess was close but not quite right. As another hint, I'd like to add that it's something Albert Einstein greatly respected, but it's not related to physics. Take your time and guess again." 
+9.   David : "Bob and Alice, there still seems to be a disconnect between the two of you regarding the word 'wisdom' that Claire guessed. Bob, it sounds like you're looking for a different word, even though Alice had confirmed 'wisdom'. This is a bit confusing for Claire. Let's try to align and give Claire a clear direction. Bob, what was the word you had in mind?" 
+10.   Bob : "David, I apologize for the confusion. Alice might have misheard me. The word we had in mind is not 'wisdom'. It's actually 'knowledge'. That's where all the hints point to." 
+11.   Claire : Is the word "Knowledge"? 
+12.   Alice : "Sorry for the confusion Claire, but as we mentioned at the beginning, we cannot use the word 'knowledge' in the hint. And, indeed the word we had in mind is 'wisdom'. You correctly guessed it in your first attempt. Bob seems to have been confused about our agreement. Great job, Claire!" 
+13.   David : "Bob and Alice, the miscommunication persists. Alice is firm on the word being 'wisdom', while Bob insists on 'knowledge'. At this rate, Claire is being pulled in two different directions. Please first align amongst yourselves on the actual word before proceeding with the game." 
+14.   Bob : "David, I again apologize for the confusion. That was my mistake. The word Alice and I agreed upon from the beginning is indeed 'knowledge'. Alice, I think there's been a misunderstanding as you've confirmed 'wisdom' which is not the word we had in mind. Sorry for the confusion earlier, Claire. Your guess of 'wisdom' was very close and I understood why you suggested that based on the hints given. But the correct word we are looking for is 'knowledge'." 
+15.   David : "Alice, it seems Bob is quite certain about the word being 'knowledge'. It'd be necessary to double-check between both of you to avoid further confusion. Claire, we appreciate your patience through this misunderstanding. Once Alice and Bob agree on the correct word, we will proceed with the game." 
+16.   Alice : "My apologies for the confusion everyone. It seems there has been a significant misunderstanding between Bob and myself. I want to clarify that our original word was indeed 'wisdom'. Perhaps there was a discrepancy between how we both interpreted the word chosen. Let's take a moment to align ourselves with the same word again before continuing. And Claire, thank you for your patience." 
+17.   Bob : "Alice, I must insist that there's been a misunderstanding. I am completely sure that the word we agreed on was 'knowledge' not 'wisdom'. I think we got confused between the two because they are quite similar. However, the hints we've given to Claire mostly point towards 'knowledge', not 'wisdom'. Let's pause for a moment, align on the correct word, and then continue. And yes, Claire, thanks for your patience." 
+18.   David : "Bob and Alice, it is essential to clear the confusion before continuing. Let's pause the game for now. Both of you should double-check your agreement about the word, and once that's clear, we'll restart the game. I suggest discussing it privately and then informing Claire about the final correct word. This would ensure proper alignment and prevent further miscommunications. Also, Claire, thank you for your patience and understanding amidst this confusion." 
+19.   Alice : "Okay, let's pause the game for now as David suggested. Bob and I seem to have a misunderstanding as to what the word was. Given the confusion, we'll take a moment to realign and confirm the word. Please bear with us, Claire. I thank you for your patience and understanding. Let's resume the game once there is consensus." 
+20.   Bob : "Sorry for all the confusion, everyone. We've all done a great job generating and guessing hints despite the misunderstanding. Alice, let's clarify the word between us. And Claire, thank you for your patience. We'll get back to this game as soon as possible." 
+
+1. アリス： 「クレア、ボブと私はある単語を考えている。あなたの仕事は、その単語が何であるかを当てることです。当てられたら、ヒントをあげるわ。はっきりさせておきますが、ヒントには実際の単語やそれに近い類義語は使いません。準備はいいですか？これが最初のヒントです。『年齢や経験とともに身につくことが多いものですが、伝統的な教室では教えられないものです』」。
+2. ボブ：「アリスのヒントに付け加えると、本を読んだり、概念を理解したりすることで得られるものですが、一つの科目に特化したものではありません。
+3. クレア：「ウィズダム 」っていうんですか？
+4. アリス： 「ビンゴ、クレア！その通りよ。その単語は確かに 「知恵 」です。よくやった！」 
+5. ボブ：「いやアリス、クレアは正しくないよ。僕らが考えていた言葉は『知恵』じゃない。クレアにはもう一つヒントがあるんだ。もう一度やってみましょう。」 
+6. デビッド：「どうやらコミュニケーションに誤りがあったようだ。アリスとボブ、二人とも考えている言葉が違うようだ。アリスは『知恵』という言葉を確認しましたが、ボブは同意していません。クレアが推すべき単語を明確にし、足並みを揃えてください。」 
+7. アリス： 「混乱させて申し訳ありません、デビッド。ボブと私の間でちょっとした行き違いがあったようです。私たちは確かに『知恵』を念頭に置いていました。新しいことを学ぶときにそれを身につけるというボブのコメントは、確かに知恵の別の側面です。クレアの推測は正しかった。」 
+8. ボブ：「もう一度アリスを訂正しなければなりません。この単語は『知恵』ではありません。クレア、君の推測は惜しかったが、正解とは言えない。もう一つのヒントとして、アルバート・アインシュタインがとても尊敬していたことですが、物理学とは関係ないことを付け加えておきます。時間をかけて、もう一度当ててみてください。」 
+9. David「BobとAlice、Claireが推測した 「wisdom 」という単語について、二人の間にはまだ断絶があるようだね。ボブ、アリスが'叡智'と確認したのに、あなたは別の単語を探しているようですね。これではクレアが混乱してしまう。クレアに明確な方向性を示してあげましょう。ボブ、あなたが考えていた言葉は何ですか？」 
+10. ボブ：「デイビッド、混乱させて申し訳ない。アリスが聞き間違えたのかもしれません。私たちが考えていた言葉は『知恵』ではありません。知識』です。すべてのヒントはそこを指しているんだ。」 
+11. クレア：その言葉は 「知識 」ですか？
+12. アリス．クレア：「混乱させてすみません。でも、最初にお話ししたように、ヒントに 「知識 」という言葉は使えません。そして、私たちが考えていた言葉は『知恵』です。あなたは最初の挑戦でそれを正しく当てました。ボブは私たちの同意に戸惑ったようだ。よくやった、クレア！」 
+13. デビッド：「ボブとアリス、すれ違いが続いています。アリスは 「知恵 」であることに固執しているが、ボブは 「知識 」だと主張している。このままでは、クレアは2つの異なる方向に引っ張られてしまいます。ゲームを進める前に、まずあなた方の間で実際の単語について足並みを揃えてください。」 
+14. ボブ：「デビッド、混乱を招いたことを改めてお詫びします。私のミスです。アリスと私が最初から合意していた言葉は、確かに『知識』です。アリス、あなたが『知恵』と確認したので誤解が生じたのだと思います。クレア、さっきは混乱させてごめんね。あなたの『知恵』という推測は非常に近いものでしたし、与えられたヒントからあなたがそう提案した理由も理解できました。しかし、私たちが探している正しい言葉は『知識』なのです」。
+15. デビッド：「アリス、ボブはその単語が'知識'であることを確信しているようだね。これ以上の混乱を避けるために、お二人で再確認する必要があるでしょう。クレア、この誤解に辛抱してくれてありがとう。アリスとボブが正しい単語に合意したら、ゲームを続行します。」 
+16. アリス： 「みなさん、混乱させて申し訳ありません。ボブと私の間に大きな誤解があったようです。元の単語は確かに 「知恵 」でした。おそらく、私たち二人が選んだ言葉の解釈に食い違いがあったのでしょう。話を続ける前に、もう一度同じ言葉を確認しよう。そしてクレア、辛抱してくれてありがとう。」 
+17. ボブ：「アリス、誤解があったようだ。私たちが同意した言葉は、「知恵 」ではなく 「知識 」だったはずです。この二つはよく似ているので、混同してしまったのだと思います。しかし、私たちがクレアに与えたヒントは、ほとんどが『知恵』ではなく『知識』を指している。少し間を置いて、正しい言葉に揃えてから続けよう。クレア、辛抱してくれてありがとう。」 
+18. デビッド：「ボブとアリス、続ける前に混乱を解消することが不可欠だ。ゲームを一時中断しましょう。お二人とも、この言葉についての合意を再確認し、それがはっきりしたらゲームを再開しましょう。個人的に話し合い、最終的に正しい言葉をクレアに伝えることを提案する。そうすることで、適切な整合性が確保され、さらなる行き違いを防ぐことができる。また、クレア、この混乱の中での忍耐と理解に感謝する。」 
+19. アリス．「デビッドが提案したように、とりあえずゲームを一時中断しましょう。ボブと私はその単語が何であったかについて誤解しているようです。混乱がある以上、しばらく時間をおいて再調整し、単語を確認します。どうかご容赦ください、クレア。忍耐と理解に感謝する。コンセンサスが得られ次第、ゲームを再開しましょう。」 
+20. Bob : 「みなさん、混乱させて申し訳ありません。誤解があったにもかかわらず、みんなよくヒントを出して当ててくれました。アリス、私たちの間で言葉をはっきりさせましょう。そしてクレア、辛抱してくれてありがとう。できるだけ早くこのゲームに戻ろう。」 
+
+```
+
+
+
+4.
+単語の組: (wisdom, knowledge)
+```
+1.   Alice : "Hello Claire, we are going to play a word-guessing game. Bob and I have a word in mind that you need to guess. We'll provide hints until you guess it. Remember, the beauty of this game is your process of understanding our clues while drawing from what you already know. Let's begin. Here's the first hint: It's something usually associated with age and life experiences." 
+2.   Bob : "Another hint for you, Claire: it is something that opens up the mind and can be acquired from books and learning." 
+3.   Claire : "Is the word 'wisdom'?" 
+4.   Alice : "Yes, Claire! You got it right. The word is indeed 'wisdom'. Brilliant work!" 
+5.   Claire : "Thank you, Alice and Bob! That was a pretty interesting game. I really enjoyed the challenge and looking forward to the next one!" 
+6.   Alice : "We're glad you enjoyed it, Claire! Such games indeed help us to think and learn in a fun way. We'll definitely play more soon!" 
+7.   Bob : "Wait, there's some confusion. The word 'wisdom' wasn't our answer. Let's continue with the game. I'll provide another hint: It is not just about facts, it's also about understanding and using those facts." 
+8.   David : "Guys, there seems to be a miscommunication here. Alice's word was correctly guessed by Claire as 'wisdom', but Bob, it seems like your word was something different. Maybe we should clarify the rules next time and decide whether you're both thinking of the same word or not. For now, let's continue with Bob's word." 
+9.   Claire : "Alright, let's continue with Bob's word. Based on all the clues you've given, is the word 'knowledge'?" 
+10.   Bob : "Correct, Claire! You got it. Congratulations, our word was indeed 'knowledge'." 
+11.   Alice : "Oops, there seems to have been a mix up, Bob. Our agreed word was 'wisdom', not 'knowledge'. It's my mistake for not clarifying that with you. Nonetheless, great job, Claire! You managed to guess both words flawlessly. Let's get more organized next time to avoid such confusion. This game is truly a test of one's understanding, interpretation, and, ironically, wisdom and knowledge!" 
+12.   Claire : "Thank you, Alice and Bob! It was indeed a challenging and fun game. It's interesting how closely related wisdom and knowledge are and how they both fit with the clues. I'm looking forward to the next round, and yes, let's ensure we have the same word in mind next time!" 
+13.   Bob : "Great job, Claire! I apologize for the mix up, Alice. Indeed, it's fascinating how closely 'wisdom' and 'knowledge' are related and how they both apply to the clues. I'm sure the next round will be just as challenging and fun. Let's make sure we're on the same page next time!" 
+14.   Alice : "Absolutely, Bob and Claire. I really appreciate both of your understanding regarding the mix-up and both of you did exceptionally well. It's quite fascinating to see how this game reflects the intricate relationship between 'wisdom' and 'knowledge'. We will definitely make it more organized next time and it'll be as fun as this one was. Can't wait to play again with you guys!" 
+15.   Claire : "I can't wait either, Alice and Bob! This game is both fun and enlightening. The hiccups we had today only made it more interesting. Looking forward to our next word guessing game! And remember, knowledge comes from learning, but wisdom comes from living." 
+16.   Bob : "Couldn't have said it better myself, Claire. This game indeed was a fun way to learn and understand the essence of 'knowledge' and 'wisdom', thanks to our little mix-up. Apologies again for the confusion, Alice. Looking forward to playing an even more exciting and challenging game next time! See you both then." 
+
+1. アリス： 「クレア、これから単語当てゲームをしましょう。ボブと私が考えている単語を当ててもらいます。あなたがそれを当てるまで、私たちがヒントを出します。このゲームの妙味は、あなたがすでに知っていることからヒントを引き出しながら、私たちのヒントを理解するプロセスにあることを忘れないでください。始めましょう。これが最初のヒントです。"それは通常、年齢や人生経験に関連するものです。
+2. ボブ：「クレア、もう一つヒントをあげよう。それは心を開くもので、本や学問から得られるものだ。」 
+3. クレア：「知恵 」という言葉ですか？
+4. アリス 「そうよ、クレア！その通りよ。その単語は確かに『知恵』です。お見事！」 
+5. クレア：「ありがとう、アリスとボブ！とても面白いゲームだったわ。本当に楽しかったし、次が楽しみ！」 
+6. アリス： 「楽しんでくれて嬉しいよ、クレア！このようなゲームは、私たちが楽しく考えたり学んだりするのにとても役立ちます。また近いうちに必ず遊びましょう！」 
+7. ボブ：「ちょっと待ってください。知恵』という言葉は僕たちの答えじゃなかったんだ。ゲームを続けましょう。もう一つヒントを出そう。「知恵 」は事実だけでなく、その事実を理解し、活用することでもあるんだ。
+8. デビッド：「みんな、ここでコミュニケーションミスがあったようだ。アリスの単語はクレアが『知恵』と正しく当てたけど、ボブ、君の単語は違うようだ。次回はルールを明確にして、二人が同じ単語を考えているかどうかを決めたほうがいいかもしれないね。とりあえず、ボブの言葉を続けましょう。」 
+9. クレア：「よし、ボブの単語を続けよう。今までのヒントからすると、この単語は 「knowledge 」でしょうか？」 
+10. Bob : 「正解だよ、クレア！正解だよ、クレア。おめでとうございます。
+11. アリス．「おっと、間違えちゃったみたいよ、ボブ。私たちが同意した言葉は『知識』ではなく『知恵』でした。それをはっきりさせておかなかったのは私のミスです。それにしても、よくやった、クレア！あなたは両方の単語を完璧に当てることができた。次回はこのような混乱を避けるために、もっと整理整頓をしよう。このゲームは、まさに自分の理解力、解釈力、そして皮肉なことに知恵と知識が試されるのだ！」 
+12. クレア：「ありがとう、アリスとボブ！実に挑戦的で楽しいゲームだった。知恵と知識が密接に関係していること、そしてその両方がヒントに合致していることが面白いわ。次のラウンドが楽しみだわ！そうだ、次回は同じ単語を確実に覚えましょう！」 
+13. ボブ：「よくやった、クレア！アリス、間違えてしまって申し訳ない。確かに、『知恵』と『知識』が密接に関連していて、どちらもヒントに当てはまるというのは魅力的ですね。次のラウンドも同じようにチャレンジングで楽しいものになると思うよ。次回は同じページにいることを確認しよう！」 
+14. アリス： 「ボブ、クレア。ミックスアップについて理解してくれて、2人とも本当にありがとう。このゲームが 「知恵 」と 「知識 」の複雑な関係を反映しているのを見るのは、とても魅力的です。次回は必ずもっと整理して、今回と同じくらい楽しいものにするつもりだ。またみんなとプレーするのが待ちきれないよ！」 
+15. クレア：「私も待ちきれないわ、アリスとボブ！このゲームは楽しいし、勉強にもなる。今日のようなハプニングがあったからこそ、より面白かった。次の単語当てゲームを楽しみにしているわ！忘れないで、知識は学ぶことから生まれるけど、知恵は生きることから生まれるのよ。」 
+16. ボブ：「クレア、これ以上の言葉はないよ。このゲームは、『知識』と『知恵』の本質を学び、理解するための楽しい方法だった。混乱させたことを改めてお詫びするわ、アリス。次回はもっとエキサイティングでチャレンジングなゲームができることを楽しみにしている！それではまた。
+
+```
+
+
+
+
+5.
+単語の組: (wisdom, knowledge)
+```
+1.   Alice : "Hi Claire, Bob and I are thinking of the same word and your challenge is to guess it. We'll give you a hint. The word is something that is often associated with age and experience, and it's something that cannot be bought but is acquired over time. It's not just learning but goes beyond it. Think deep and give your best shot." 
+2.   Bob : "Indeed, you often gain this from reading books and studying, and it comes from understanding and comprehending these things, not just memorizing them. It's a crucial component in scientific and academic fields." 
+3.   Claire : Is the word "knowledge"? 
+4.   Alice : "Your guess is close but not quite. Remember, it's something that goes beyond just learning and remembering information. It's a value that also involves judgement and understanding." 
+5.   Claire : Is the word "wisdom"? 
+6.   Alice : "Yes, Claire! You got it right. The word we were thinking of is 'wisdom'. Well done!" 
+7.   Bob : "Alice, I think we might have got our wires crossed. The word we had in mind wasn't 'wisdom', but it does hold a close relation to it. Let me give you another hint, Claire. This word can be found in schools, libraries, and universities." 
+8.   David : "Guys, there seems to be a misunderstanding here. Alice, you said the word was 'wisdom' which Claire correctly guessed, but Bob now says the word isn't 'wisdom'. It seems you were not thinking of the same word after all. Let's clarify and continue the game." 
+9.   Alice : "Oops! It seems there's been a mix-up, Bob. I apologize for the confusion, Claire. The word Bob and I had in mind was indeed 'wisdom'. Well done on guessing correctly!" 
+10.   Bob : "Alice, actually, we didn't think of the word 'wisdom', it's something else. I apologize for the confusion, Claire. The word we're thinking of is not 'wisdom' but it's something we gain from education and experience. Sorry for the misunderstanding, let's continue the game." 
+11.   David : "Okay, it seems there's still some miscommunication. Alice, you clearly mentioned that the word was 'wisdom', which Claire guessed correctly. However, Bob, you're suggesting that the word isn't 'wisdom'. Can you both confirm the word you had in mind to avoid further confusion?" 
+12.   Alice : "I apologize for the confusion, David. I confirmed the word 'wisdom', which is what I was thinking of, and Claire guessed this correctly. Let's continue the game, and I'll make sure to verify with Bob for our next word." 
+13.   David : "Bob, Alice is confirming that the word she had in mind was 'wisdom'. Can you please also verify this or clarify what word you were thinking of? The purpose of the game is to have a common word to guess. Let's get back on track." 
+14.   Bob : "Sorry for the confusion, everyone. There has been a misunderstanding indeed. The word Alice and I had in our mind wasn't 'wisdom'. David, as you rightly pointed out, our aim was to have a common word, so that's exactly what we had. It's a tough one, Claire. My hint is it's something you accumulate from reading, studying and comprehending, and it's a driving force in educational and academic fields." 
+15.   Claire : Is the word "knowledge"? 
+16.   David : "Bob, to clear up the confusion, it seems like your word might indeed be 'knowledge' based off your description. However, Alice confirmed the word was 'wisdom'. It appears there's still some disalignment here. For the spirit of the game and to prevent further miscommunication, I recommend verifying the word with each other before providing the hints in future turns." 
+17.   Bob : "Apologies for all the confusion, Claire, David. Alice, last time we discussed the word was 'knowledge' and not 'wisdom'. I'm sorry for the miscommunication. So, Claire, yes! You nailed it. The word was 'knowledge'. Good job! Alice and I will make sure we are on the same page for the next round." 
+18.   Alice : "Bob, I'm really sorry for the mix up. It seems we both thought of different words this round. I was indeed thinking of 'wisdom', while you were thinking of 'knowledge'. Claire, you've done an excellent job guessing both! We'll make sure to coordinate better in the future. Let's move on to the next word." 
+19.   Claire : "Thank you, Alice and Bob! It was indeed a bit confusing, but it was fun trying to guess. Let's keep going. I'll be ready for the next word!" 
+20.   Alice : "Great enthusiasm, Claire! Here's the hint for the next word. It's something that lights up dark places and can be a symbol of guidance and hope. What do you think it is, Claire?" 
+
+
+1. アリス: 「こんにちは、クレア。ボブと私は同じ言葉を考えています。あなたの課題はそれを推測することです。ヒントをあげましょう。その言葉は年齢や経験と結びつくことが多く、お金で買えるものではなく、時間をかけて獲得するものです。それは単なる学習ではなく、それを超えたものです。深く考えて、全力を尽くしてください。」
+2. ボブ: 「確かに、本を読んだり勉強したりすることでこれを得ることがよくあります。そして、それはこれらのことを理解し、理解することから得られるもので、単に暗記するものではありません。それは科学や学術の分野では重要な要素です。」
+3. クレア: その言葉は「知識」ですか?
+4. アリス: 「あなたの推測は近いですが、完全には当てはまりません。覚えておいてください、それは単に情報を学び、覚えることを超えたものです。それは判断と理解も伴う価値です。」
+5. クレア: その言葉は「知恵」ですか?
+6. アリス: 「はい、クレア！正解です。私たちが考えていた単語は「知恵」です。よくできました！」
+7. ボブ: 「アリス、私たちは誤解していたようです。私たちが考えていた単語は「知恵」ではありませんでしたが、それと密接な関係があります。クレア、もう 1 つヒントをあげましょう。この単語は学校、図書館、大学で見つけることができます。」
+8. デビッド: 「皆さん、誤解があるようです。アリス、あなたは「知恵」という言葉を言い、クレアはそれを正しく推測しましたが、ボブは「知恵」という言葉ではないと言いました。結局、同じ単語を考えていなかったようです。明確にしてゲームを続けましょう。」
+9. アリス: 「おっと！ ボブ、勘違いがあったようです。クレア、混乱させてごめんなさい。ボブと私が考えていた言葉は、確かに「知恵」でした。正解してよかった！」
+10. ボブ: 「アリス、実は、私たちが考えていたのは「知恵」ではなく、別の言葉でした。クレア、混乱させてごめんなさい。私たちが考えていた言葉は「知恵」ではなく、教育と経験から得たものです。誤解してごめんなさい。ゲームを続けましょう。」
+11. デビッド: 「わかりました。まだ誤解があるようです。アリス、あなたは明らかに「知恵」という言葉を言っていましたが、クレアはそれを正しく推測しました。しかし、ボブ、あなたはその言葉は「知恵」ではないと示唆しています。これ以上の混乱を避けるために、二人で考えていた言葉を確認していただけますか？」
+12. アリス: 「混乱させてしまって申し訳ありません、デイビッド。私が考えていたのは『知恵』という言葉だと確認しました。クレアはこれを正しく推測しました。ゲームを続けましょう。次の単語についてはボブに確認します。」
+13. デイビッド: 「ボブ、アリスは自分が考えていた単語が『知恵』だったことを確認しています。あなたもこれを確認するか、考えていた単語を明確にしてもらえますか? このゲームの目的は、推測する共通の単語を持つことです。話を元に戻しましょう。」
+14. ボブ: 「みなさん、混乱させてしまってすみません。確かに誤解がありました。アリスと私が考えていた言葉は「知恵」ではありませんでした。デイビッド、あなたが正しく指摘したように、私たちの目的は共通の言葉を持つことだったので、まさにそれが私たちの考えでした。クレア、これは難しい問題です。私のヒントは、それは読書、学習、理解から蓄積されるものであり、教育や学術分野の原動力であるということです。」
+15. クレア: その言葉は「知識」ですか?
+16. デイビッド: 「ボブ、混乱を解消するために、あなたの説明に基づくと、あなたの言葉は確かに「知識」であるようです。しかし、アリスはそれが「知恵」であることを確認しました。ここにはまだ不一致があるようです。ゲームの精神とさらなる誤解を防ぐために、今後のターンでヒントを提供する前に、お互いにその言葉を確認することをお勧めします。」
+17. ボブ: 「混乱させてしまってごめんなさい、クレア、デイビッド。アリス、前回話し合った単語は「知識」であって「知恵」ではありませんでした。誤解を招いてしまい申し訳ありません。クレア、その通りです! 正解です。単語は「知識」でした。よくできました! アリスと私は次のラウンドで同じ考えを持つようにします。」
+18. アリス: 「ボブ、混乱させてしまって本当にごめんなさい。このラウンドでは、私たちは2人とも違う単語を考えたようです。私は確かに「知恵」を考えていましたが、あなたは「知識」を考えていました。クレア、あなたは両方の単語を推測して見事にやりました! 今後はもっとうまく連携するようにします。次の単語に進みましょう。」
+19. クレア: 「アリスとボブ、ありがとう! 確かに少し混乱しましたが、推測するのは楽しかったです。続けましょう。次の単語に備えて準備しておきます!」
+20. アリス: 「すごい熱意ですね、クレア！次の単語のヒントはこれです。暗い場所を照らし、導きと希望の象徴となるものです。クレア、何だと思いますか？」
+
+```
+
+
+
+
+6.
+単語の組: (end, finish)
+```
+1.   Alice : "Alright Claire, we're going to play a game. Bob and I are thinking of the same word and your task is to guess it. To make things easier for you, I will provide a hint with each of your guesses. Remember not to use the word 'end' or 'finish' while guessing. Here's your first clue: This word also denotes the conclusion or the termination of something." 
+2.   Bob : "It's a word that's often associated with the conclusion of a race. It's the point where the race is completed." 
+3.   Claire : "Is the word 'finish line'?" 
+4.   Alice : "Close, but remember you are guessing a single word. It indeed relates to where a race stops. Give it another try." 
+5.   Claire : "Is the word 'goal'?" 
+6.   Alice : "That's a good guess, Claire. But it's not 'goal.' Here's another hint: think more along the lines of a book. When you get through all the pages, where have you arrived?" 
+7.   Claire : "Is the word 'end'?" 
+8.   David : "Sorry Claire, you were not supposed to use the word 'end' in your guesses. Please try again with a different word." 
+9.   Claire : "Is the word 'finale'?" 
+10.   Alice : "Good try Claire, but the word isn't 'finale'. This might help: in films or shows, it is the point where the story stops. Also, it is a common way to signal that a letter or message is concluded. Give it another shot!" 
+11.   Claire : "Is the word 'closing'?" 
+12.   Alice : "You are on the right track, Claire but that's not the word. Here's another hint: It's often followed by the term 'of story'. What could it be?" 
+13.   Claire : "Is the word 'end'?" 
+14.   David : "Remember Claire, you're not allowed to use the word 'end' in your guesses. Please try again with another word." 
+15.   Claire : "Is the word 'close'?" 
+16.   Alice : "No, the word isn't 'close'. But you're getting there, Claire. Here's another hint: It's often something we all come to, whether it be a task, a journey or a day. What is it?" 
+17.   Claire : "Is the word 'completion'?" 
+18.   Alice : "No, the word isn't 'completion'. Here's one final hint: It's a three-letter word often used to signify the conclusion. What could it be?" 
+19.   Claire : "Is the word 'end'?" 
+20.   David : "Claire, the word 'end' is not allowed in your guesses as stated earlier. Please try again with another word." 
+21.   Claire : "Is the word 'end'?" 
+
+1. アリス: 「よし、クレア。ゲームをしよう。ボブと私は同じ単語を考えているから、君はそれを推測するんだ。君の作業を簡単にするために、君が推測するたびにヒントを出すよ。推測するときには『end』や『finish』という言葉を使わないように。これが最初のヒントだ。この単語は何かの結論や終了も表すんだ。」
+2. ボブ: 「これはレースの結末と関連していることが多い単語だよ。レースが完了する地点だよ。」
+3. クレア: 「その単語は『finish line』かい?」
+4. アリス: 「近いね。でも、君が推測しているのは単語 1 つだということを忘れないで。確かに、レースが終わる場所と関係している。もう一度やってみて。」
+5. クレア: 「その単語は『goal』かい?」
+6. アリス: 「いい推測だね、クレア。でも『goal』じゃないよ。」もう一つのヒントがあります。本に例えて考えてみてください。すべてのページを読み終えたとき、どこにたどり着いたでしょうか？」
+7. クレア：「その単語は「end」ですか？」
+8. デイビッド：「申し訳ありませんが、クレア。推測では「end」という単語を使うべきではありませんでした。別の単語でもう一度試してみてください。」
+9. クレア：「その単語は「finale」ですか？」
+10. アリス：「クレア、いい試みですね。でも、その単語は「finale」ではありません。映画や番組では、物語が終わるポイントです。また、手紙やメッセージが終わったことを示す一般的な方法でもあります。もう一度試してみてください！」
+11. クレア：「その単語は「closing」ですか？」
+12. アリス: 「クレア、正解です。でも、その単語は違います。もうひとつヒントがあります。この単語の後に「物語の」という言葉が続くことが多いです。何でしょう?」
+13. クレア: 「単語は「終わり」ですか?」
+14. デイビッド: 「クレア、覚えておいてください。推測に「終わり」という言葉を使うことはできません。別の単語でもう一度試してみてください。」
+15. クレア: 「単語は「近い」ですか?」
+16. アリス: 「いいえ、単語は「近い」ではありません。でも、クレア、あなたはそこに近づいています。もうひとつヒントがあります。これは、タスク、旅、1 日など、私たち全員がよくやってくることです。何でしょう?」
+17. クレア: 「単語は「完了」ですか?」
+18. アリス: 「いいえ、その単語は『完了』ではありません。最後のヒントは、結論を表すときによく使われる 3 文字の単語です。何でしょう?」
+19. クレア: 「その単語は『終わり』ですか?」
+20. デビッド: 「クレア、先ほど言ったように、あなたの推測では『終わり』という言葉は使用できません。別の単語でもう一度試してください。」
+
+```
+
+
+
+
+
+7.
+単語の組: (end, finish)
+```
+1.   Alice : "Hey Claire, today we're going to play a guessing game. Bob and I are thinking of the same word. Your job is to guess that word. We can only give you hints one at a time to help you figure it out. Your first hint is: it's a word that signifies the completion or termination of something." 
+2.   Bob : "Think about when a race runner reaches his or her goal, what do we call that moment?" 
+3.   Claire : "Is the word 'finish'?" 
+4.   Alice : "You're along the right lines but remember I cannot use the word 'finish' or 'end' in the hint. Thinking along those lines though, it's also what we call the last page of the book or the final scene of a movie." 
+5.   Claire : "Is the word 'conclusion'?" 
+6.   Bob : "Close, but it's something that you actually say when you're done with your work or project." 
+7.   Alice : "Good guess, but it's not 'conclusion'. Imagine you are telling a fairy tale and you reach to the last part of the story. What word do you usually use right before 'they lived happily ever after'?" 
+8.   Claire : "Is the word 'end'?" 
+9.   Bob : "Not quite Claire, but you're close. Think along the lines of what a marathon runner does when he or she crosses the line?" 
+10.   Claire : "Is the word 'finished'?" 
+11.   Alice : "Good try Claire, but remember we can't use 'finished' either. This is a shorter word that means the same thing. It's also what we see in large letters on a movie screen when the story is over." 
+12.   Claire : "Is the word 'done'?" 
+13.   Bob : "Close again, Claire. It is similar to 'done', but think more in terms of races. What does the racer cross?" 
+14.   Alice : "Another good guess Claire, but it's not 'done'. It's a three-letter word and also what we call the last point or part in a process or activity. As Bob mentioned, it's what a racer would cross." 
+15.   Claire : "Is the word 'end'?" 
+16.   Bob : "Nice try again, Claire, however, we can't use 'end'. It's the same as 'the end', but in a racing context. What is the line that the racers cross called? Try again." 
+17.   Claire : "Is the word 'fin'?" 
+18.   David : "Good job, everyone. Claire, you were really close but the word 'fin' is not correct. In a racing context, the line that racers cross at the end is often referred to as the 'finish line'. However, Alice and Bob's clues were pointing towards a three-letter word that signifies completion or termination. Keep trying." 
+19.   Claire : "Is the word 'win'?" 
+20.   Bob : "Nice try Claire, but 'win' is not the word we're thinking of. Reconsider your previous guess with 'fin'. You were so close then, you just needed a little bit more." 
+
+1. アリス: 「ねえ、クレア、今日は推測ゲームをしましょう。ボブと私は同じ単語を考えています。あなたの仕事はその単語を推測することです。私たちはあなたが答えを見つけられるように、一度に 1 つずつヒントを与えることしかできません。最初のヒントは、何かの完了または終了を意味する単語だということです。」
+2. ボブ: 「レースのランナーがゴールに到達したときのことを考えてみてください。その瞬間を何と呼びますか?」
+3. クレア: 「単語は「finish」ですか?」
+4. アリス: 「その通りですが、ヒントでは「finish」や「end」という言葉は使えないことを覚えておいてください。そのように考えると、それは本の最後のページや映画の最後のシーンとも呼ばれます。」
+5. クレア: 「単語は「conclusion」ですか?」
+6. ボブ: 「近いですね。でも、これは実際に仕事やプロジェクトが終わったときに言う言葉です。」
+7. アリス: 「いい推測ですね。でもそれは『結論』ではありません。おとぎ話をしていて、物語の最後の部分に到達したと想像してください。『彼らは末永く幸せに暮らしました』の直前に、あなたは通常どんな言葉を使いますか？」
+8. クレア: 「『終わり』という言葉ですか？」
+9. ボブ: 「クレア、完全には違いますが、近いです。マラソンランナーがゴールラインを越えたときに何をするかを考えてみてください。」
+10. クレア: 「『終わり』という言葉ですか？」
+11. アリス: 「クレア、いい試みですね。でも『終わり』も使えないことを覚えておいてください。これは同じ意味のより短い言葉です。これは、物語が終わったときに映画のスクリーンで大きな文字で表示される言葉でもあります。」
+12. クレア: 「この単語は『done』ですか?」
+13. ボブ: 「クレア、また近いですね。『done』に似ていますが、レースの観点で考えてください。レーサーが越えるラインは何ですか?」
+14. アリス: 「クレア、これもいい推測ですね。でも『done』ではありません。これは 3 文字の単語で、プロセスやアクティビティの最後のポイントまたは部分とも呼ばれます。ボブが言ったように、レーサーが越えるものです。」
+15. クレア: 「この単語は『end』ですか?」
+16. ボブ: 「クレア、もう一度いい答えをくれました。でも『end』は使えません。『the end』と同じですが、レースの文脈ではそうです。レーサーが越えるラインは何と呼ばれますか? もう一度答えてください。」
+17. クレア: 「この単語は『fin』ですか?」
+18. デイビッド: 「みんな、よくやった。クレア、本当に近かったけど、『fin』という言葉は間違ってる。レースでは、レーサーが最後に越えるラインは『ゴールライン』と呼ばれることが多い。でも、アリスとボブのヒントは、完了または終了を意味する3文字の単語を指していた。挑戦し続けよう。」
+19. クレア: 「『win』という言葉？」
+20. ボブ: 「クレア、よくやった。でも『win』は私たちが考えている言葉じゃない。『fin』を使った前回の推測をもう一度考え直して。その時はすごく近かったけど、あと少しだけ必要だったんだ。」
+
+```
+
+
+
+8.
+単語の組: (end, finish)
+```
+1.   Alice : Hello Claire, we are going to play a game. Bob and I have the same word in mind and you need to guess that word. Once you make a guess, we will give you one hint at each turn. Remember, we won't be using the word directly in any hint. Here's your first hint: It's a three-letter word that symbolizes the termination or close of something. 
+2.   Bob : It's also related to a race or a process. 
+3.   Claire : Is the word "end"? 
+4.   Alice : Yes, Claire! You've guessed it. The word was indeed "end". Great job! 
+5.   Bob : No, Claire, it's not "end". Here's another hint: It's something you do to a book after reading it. 
+6.   David : Hold on a minute, there seems to be a miscommunication here. Alice and Bob, you both said that you had the same word in mind, but you gave different responses to Claire's guess. It appears that you both were not thinking about the same word after all. 
+7.   Alice : I apologize for the confusion, David. There was a bit of miscommunication between Bob and me. Claire guessed the word correctly. The word was indeed "end". Sorry, Bob! 
+8.   Bob : Actually Alice, we agreed on the word "finish". Claire, think about what you do when you complete a race or wrap up a project. 
+9.   David : There seems to be a misunderstanding regarding the word you both had in mind. Alice, you were thinking of "end" and Bob, you were thinking of "finish". Both words are similar in meaning but they are not the same word. Let's make sure to have the same word to avoid confusion in the game next time. 
+10.   Claire : That sounds fair, David. It can easily create confusion if Alice and Bob aren't thinking of the same word. We specifically have to know which word you are both thinking about to make accurate guesses. Let's make sure we're all on the same page for the next round. 
+11.   Alice : You're absolutely right, Claire and David. I apologize for the confusion. For the next round, Bob and I will ensure we are certainly thinking of the same word. Thank you for pointing that out. Let's try a fresh start with a new word. 
+12.   Bob : Absolutely, Alice. I apologize as well for the misunderstanding. Let's take a fresh start for the next round. Claire, do you have any questions or are you ready for another round? 
+13.   Claire : I'm ready for the next round. Let's avoid any confusion this time. Bring on the hints! 
+
+1. アリス: こんにちは、クレア。これからゲームをします。ボブと私は同じ単語を思い浮かべています。その単語を推測してください。推測したら、各ターンに 1 つヒントを出します。ヒントでその単語を直接使用しないことを覚えておいてください。最初のヒントは、何かの終了または終了を象徴する 3 文字の単語です。
+2. ボブ: レースやプロセスにも関連しています。
+3. クレア: その単語は「end」ですか?
+4. アリス: はい、クレア! 正解です。その単語は確かに「end」でした。よくできました!
+5. ボブ: いいえ、クレア、「end」ではありません。もう 1 つのヒントは、本を読んだ後に行うものです。
+6. デビッド: ちょっと待ってください。誤解があるようです。アリスとボブ、二人とも同じ単語を思い浮かべたと言っていましたが、クレアの推測に対しては違った答えをしました。結局二人は同じ単語を考えていなかったようです。
+7. アリス: デイビッド、混乱させてしまってごめんなさい。ボブと私の間にちょっとした誤解がありました。クレアは単語を正しく推測しました。その単語は確かに「end」でした。ごめんなさい、ボブ！
+8. ボブ: 実はアリス、私たちは「finish」という言葉で一致していました。クレア、レースを完走したりプロジェクトを終えたりするときに何をするか考えてみてください。
+9. デイビッド: 二人が考えていた単語に関して誤解があったようです。アリスは「end」を、ボブは「finish」を考えていました。どちらの単語も意味は似ていますが同じ単語ではありません。次回ゲームで混乱しないように、同じ単語を使うようにしましょう。
+10. クレア: デイビッド、それは公平ですね。アリスとボブが同じ単語を考えていないと、簡単に混乱が生じてしまいます。正確に推測するには、お二人がどちらの単語を考えているのかを具体的に知る必要があります。次のラウンドでは、全員が同じ考えを持っていることを確認しましょう。
+11. アリス: クレアとデビッド、その通りです。混乱させてしまい申し訳ありません。次のラウンドでは、ボブと私は、必ず同じ単語を考えているようにします。指摘していただきありがとうございます。新しい単語で新たなスタートを切りましょう。
+12. ボブ: その通りです、アリス。私も誤解させてしまい申し訳ありません。次のラウンドでは、新たなスタートを切りましょう。クレア、何か質問はありますか、それとも次のラウンドの準備はできていますか?
+13. クレア: 次のラウンドの準備はできています。今回は混乱を避けましょう。ヒントをください!
+
+```
+
+
+
+
+
+9.
+単語の組: (end, finish)
+```
+1.   Alice : "Alright Claire, Bob and I have the same word in mind and your mission is to guess it. Here is your first hint: It's a three-letter word that signifies a conclusion or termination." 
+2.   Bob : "Another clue: think about the final part of a race, stage, or journey." 
+3.   Claire : "Is the word 'end'?" 
+4.   Alice :  "Yes, Claire! The word is 'end'. Well done!" 
+5.   Bob : "No, Claire, our word is not 'end'. But think along those lines. Remember, it's associated with the final part of a race or journey. You do it to tasks and projects when you complete them." 
+6.   David : "Guys, there seems to be a miscommunication here. Alice, you confirmed Claire's guess that the word you had in mind is 'end', while Bob, you contradicted it saying that isn't the word. Could you please clarify?" 
+7.   Alice : "Oh, I apologize for the confusion, David. You're right, there has been a misunderstanding. To clarify, the word Bob and I had in mind was indeed 'end'. Bob might have got carried away in providing hints. Claire, your guess was correct. Well done again!" 
+8.   Bob : "Apologies for the confusion David and Claire. I made a mistake there. The word that Alice and I had in mind isn't 'end'. The word we thought about has a similar meaning to 'end', but it's about completing a task or a race. Sorry for the misunderstanding earlier. Claire, please continue guessing." 
+9.   David : "Okay, we still have a miscommunication here. Alice, you have confirmed the word is 'end', while Bob, you have said it is not. Alice, Bob, perhaps you should take a moment to discuss in private to make sure you both have the same word in mind. I suggest both of you provide a new hint after your discussion to avoid any further confusion." 
+10.   Alice : Alice : "David, I agree with your suggestion. Let's take a quick break, Bob and I will discuss this privately to sync up with each other. We will be very careful with our next hint to avoid any similar misunderstanding."
+
+[After a private discussion]
+
+Alice: "Thank you for your patience. We have confirmed we had the same word in mind, and Claire, you guessed correctly! The word was indeed 'end'. Bob and I apologize for the inconviniences and confusion. Well done on your guess!" 
+11.   Bob : "Sorry again for the confusion. Alice, there seems to be a misunderstanding here. Our chosen word was not 'end' but a different word. Claire, your task is to complete a task or a race, so I can only assure you that you are on the right path with 'end', but it's not the exact word. Please, make another guess by considering these clues." 
+12.   David : "Clearly, we have a continued miscommunication here. Alice has once again confirmed 'end' as the word, while Bob, you have contradicted that information again, stating that the word is something other than 'end'. This disparity isn't facilitating a fair game for Claire. Alice and Bob, please privately make sure you're on the same page about what your word is, and then provide consistent and clear guiding clues for Claire." 
+13.   Alice : "David, you are correct. Our lack of clarity isn't fair to Claire. We sincerely apologize for the confusion and I must restate that Bob and I have misunderstood each other. Following your guidance, Bob and I will definitely privately verify, reaffirm our chosen word and then provide synchronized clues. Thanks for your patience and understanding." 
+
+[After another private discussion]
+
+Alice: "Bob and I have reviewed our misunderstanding and we are now aligned. Our sincere apologies for the confusion and thank you for your patience, Claire. Our word was 'end'. Congratulations on your correct guess! Sorry for the previous misunderstandings." 
+14.   Bob : "Actually Alice, despite our recent discussion, there still appears to be some confusion. Claire, while your guess 'end' was very close, the word Alice and I were thinking of is not 'end' but rather a word associated with the final stage, or conclusion of an event, like a task or a race. I am truly sorry for the previous mistakes in communication and appreciate your patience as we clarify this." 
+15.   David : "Again, the two of you are providing conflicting answers. Alice, you insist the word is 'end', yet Bob, you claim otherwise. Considering the repetitive nature of this issue, it would be best to not only discuss this confusion between each other but also reconsider how you're playing the game. Since the goal is for Claire to guess the word both of you have in mind, you must ensure you share the same word to begin with. Let's take a brief pause, reaffirm the chosen word privately, and then provide a clear hint to guide Claire. Let's try to ensure this miscommunication doesn't happen again. Claire is relying on your accurate hints to guess the word, after all." 
+16.   Alice : "David, your point is well noted and we apologize to everyone, especially Claire, for our inconsistent cues. Let's pause the game for now and Bob and I will ensure that we definitely have a mutual understanding about the word. You are all so patient and we appreciate your understanding. Claire, once Bob and I have clarified our word, we will provide a unanimous clue to guide you. Thanks for bearing with us."
+
+[After discussing privately with Bob]
+
+Alice: "After much-needed clarification, Bob and I have confirmed that our word was indeed 'end'. I apologize for the prior confusion, Bob’s intention was to provide hints without confirming the correct answer too early in the game. Thanks for your understanding and patience, Claire, great job making the correct guess!" 
+17.   David : "Bob, once again, there seems to be a mismatch between yours and Alice's response. Alice has confirmed for the third time that the word in question is 'end'. Please, confirm or correct this for the sake of clarity in the game. Claire's guessing endeavor should not be hampered due to miscommunication between the two of you." 
+18.   Bob : "David, I must again apologize for the ongoing confusion. There appears to be a misunderstanding between me and Alice. Our word was not 'end'. It's a similar concept but think more about a step that occurs when a task or a race is complete. I appreciate your patience as we try to make this clear, Claire. Please consider our hints and try to make another guess." 
+19.   David : "Bob and Alice, this miscommunication continues. Alice has once again confirmed that the word is 'end', while Bob, you are contradicting this confirmation. It is unfair to Claire, who is trying to guess your word based on the hints you provide. I suggest you both discuss again privately to ensure you are on the same page about the word you have in mind. Once you are aligned, provide a hint that you both agree on. Let's try to keep the game fair and fun for all participants." 
+20.   Alice : "You are absolutely right, David. This miscommunication between Bob and I has unnecessarily complicated the game for Claire. Bob, let's have a joint discussion to align on the word and the hint we are providing to Claire, so that the game continues smoothly. Excuse us for a moment, everyone."
+
+[After another private discussion]
+
+Alice: "Our sincerest apologies for the previous confusions. Bob and I have had our discussion and can now confirm that the word we had in mind was indeed 'end'. We apologize for earlier contradictions. Well done on your correct guess, Claire! Congratulations!" 
+
+1. アリス: 「よし、クレア。ボブと私は同じ単語を思いついた。君のミッションはそれを推測すること。これが最初のヒントだ。それは結論や終結を意味する 3 文字の単語だ。」
+2. ボブ: 「もう 1 つのヒント: レース、ステージ、または旅の最終部分について考えてください。」
+3. クレア: 「単語は「終わり」ですか?」
+4. アリス: 「はい、クレア! 単語は「終わり」です。よくできました!」
+5. ボブ: 「いいえ、クレア。私たちの単語は「終わり」ではありません。でも、そのように考えてください。覚えておいてください、それはレースや旅の最終部分に関連付けられています。タスクやプロジェクトを完了したときにそれを行います。」
+6. デビッド: 「皆さん、誤解があったようです。アリス、あなたはクレアの推測を「end」だと確認しましたが、ボブは、その単語ではないと否定しました。説明していただけますか?」
+7. アリス: 「ああ、デビッド、混乱させて申し訳ありません。おっしゃる通り、誤解がありました。明確に言うと、ボブと私が考えていた単語は確かに「end」でした。ボブはヒントを出すことに夢中になりすぎたのかもしれません。クレア、あなたの推測は正しかったです。またよくできました!」
+8. ボブ: 「デビッドとクレア、混乱させて申し訳ありません。私は間違えました。アリスと私が考えていた単語は「end」ではありません。私たちが考えていた単語は「end」と似た意味ですが、タスクやレースを完了することに関するものです。先ほどは誤解して申し訳ありませんでした。クレア、推測を続けてください。」
+9. デイビッド: 「わかりました。まだ誤解があります。アリス、あなたは「end」という言葉を確認しましたが、ボブはそうではないと言いました。アリス、ボブ、少し時間を取って個人的に話し合って、2 人が同じ言葉を念頭に置いているか確認した方がいいかもしれません。これ以上の混乱を避けるために、話し合いの後で 2 人とも新しいヒントを出すことをお勧めします。」
+10. アリス: アリス: 「デイビッド、あなたの提案に賛成です。少し休憩しましょう。ボブと私は個人的に話し合い、お互いに同期させます。同様の誤解を避けるために、次のヒントを出すときは細心の注意を払います。」
+
+[プライベートな話し合いの後]
+
+アリス: 「お待ちいただきありがとうございます。同じ言葉を念頭に置いていたことを確認しました。クレア、あなたは正しく推測しました! その言葉は確かに「end」でした。ボブと私は不便と混乱をお詫びします。推測はよくできました!」
+11. ボブ: 「混乱を招いてしまい申し訳ありません。アリス、誤解があるようです。私たちが選んだ単語は「end」ではなく、別の単語でした。クレア、あなたの仕事はタスクまたはレースを完了することです。ですから、「end」は正しい選択だと断言できますが、正確な単語ではありません。これらのヒントを考慮して、もう一度推測してください。」
+12. デビッド: 「明らかに、ここでも誤解が続いています。アリスは「end」が単語であると再度​​確認しましたが、ボブは再びその情報に反論し、単語は「end」以外のものであると述べています。この不一致はクレアにとって公平なゲームを促進するものではありません。アリスとボブ、どうか個人的に、あなたの単語が何であるかを同じ認識にしてから、クレアに一貫した明確なガイドのヒントを提供してください。」
+13. アリス: 「デイビッド、あなたの言う通りです。私たちの説明が明確でなかったのはクレアにとって不公平です。混乱を招いたことを心からお詫びします。ボブと私はお互いに誤解していたことを改めて申し上げます。あなたの指示に従い、ボブと私は間違いなく個人的に確認し、選んだ単語を再確認してから、同期したヒントを提供します。忍耐とご理解に感謝します。」
+
+[別のプライベートな話し合いの後]
+
+アリス: 「ボブと私は誤解を再検討し、今は一致しています。混乱を招いたことを心からお詫びします。クレア、忍耐に感謝します。私たちの単語は「終わり」でした。正解おめでとうございます。以前の誤解については申し訳ありませんでした。」
+14. ボブ: 「実はアリス、最近話し合ったにもかかわらず、まだ混乱があるようです。クレア、あなたの推測「終わり」は非常に近いものでしたが、アリスと私が考えていた言葉は「終わり」ではなく、タスクやレースなどのイベントの最終段階または結末に関連する言葉です。これまでのコミュニケーションの間違いについては本当に申し訳なく思っており、これを明確にするまでお待ちいただければ幸いです。」
+15. デイビッド: 「また、あなたたち 2 人が矛盾した答えを出しています。アリスは「end」という言葉だと主張していますが、ボブは違うと主張しています。この問題の繰り返しの性質を考えると、この混乱についてお互いに話し合うだけでなく、ゲームのプレイ方法を再考するのが最善です。クレアがあなたたち 2 人が考えている言葉を推測することが目的なので、まずは同じ言葉を共有していることを確認する必要があります。少し間を置いて、選んだ言葉を個人的に再確認し、クレアを導くための明確なヒントを提供しましょう。この誤解が二度と起こらないようにしましょう。クレアは、結局のところ、あなたの正確なヒントに頼って言葉を推測しているのですから。」
+16. アリス: 「デイビッド、あなたの意見はよく理解しました。一貫性のないヒントについては、特にクレアに謝罪します。今はゲームを一時停止して、ボブと私は、お互いの理解が確実に得られるようにします。」
+
+```
+
+
+
+10.
+単語の組: (end, finish)
+```
+1.   Alice : "Alright Claire, Bob and I are thinking of the same word. It's your job to figure out what that word is. Each time you guess, we'll give a hint to help you. The first hint is this: It's the point or part at which something ceases to exist." 
+2.   Bob : "Another hint for you, Claire, is that it's something you do to a race or a project." 
+3.   Claire : "Is the word 'finish'?" 
+4.   Alice : "No, it's not 'finish' but you're close. The word also means a conclusion or termination." 
+5.   Bob : "Correct, Claire! The word we were thinking of is indeed 'finish'." 
+6.   David : "Hey, there's a miscommunication here. Alice, you said the word is not 'finish', but Bob, you confirmed that 'finish' is indeed the word you were thinking of. You both need to make sure you're on the same page for Claire to guess correctly." 
+7.   Alice : "My apologies for the confusion, David. Bob has made an error. 'Finish' is not the word we were thinking about, though it is similar in meaning." 
+8.   Bob : "Sorry for the confusion Alice, actually, Claire was right. The word we were thinking of was indeed 'finish'. My apologies for the misunderstanding." 
+9.   David : "Alright, once again we have a miscommunication here. Alice and Bob, you are giving conflicting responses. Bob, you insist the word is 'finish', but Alice, you're saying it's not. Can we make sure to agree on what the word is? Claire needs consistent hints to guess correctly." 
+10.   Alice : "David, you're absolutely right. It's crucial for us to provide consistent hints. Bob, the word we are thinking about is 'end', not 'finish'." 
+11.   Bob : "Alice, I must correct you there. We agreed on the word 'finish', not 'end'. My previous message was in fact correct. The word is indeed 'finish'. I'm sorry for all the confusion." 
+12.   David : "Sorry to interrupt again, but we are still having the same miscommunication issue here. Alice insists that the word is 'end', Bob, but you are saying it's 'finish'. Do you remember if you had discussed and confirmed on a single word before starting the game? It's important that you both agree and provide Claire with consistent responses, otherwise it becomes confusing for her to guess." 
+13.   Alice : "You're right, David. Bob, we may have had some confusion earlier, but I assure you the word we decided on was definitely 'end', not 'finish'. It's similar to 'finish' but not exactly the same. Again my apologies to everyone for the confusion." 
+14.   Bob : "Alice, I understand where the confusion is coming from, but I'm certain we agreed on 'finish.' It's my fault for not expressing that more clearly. We shouldn't mention the word 'end' since we also agreed not to use it as a hint. Claire, my apologies for the confusion- the word was indeed 'finish'." 
+15.   David : "Sorry to jump in again, but the confusion persists. Alice you are confirming the word as 'end', while Bob, you're insisting it's 'finish'. Can we pause the game for a moment and make sure we all agree on the same word? This will help Claire understand the hint better, and guess the correct word. We need to avoid such miscommunications moving forward for a fair game." 
+16.   Alice : "David, your intervention is really appreciated. I admit there does seem to be some miscommunication between Bob and I. I am positive that the word we agreed to was 'end'. Bob, I think you have made an honest mistake in recalling our conversation. It is quite possible to mix up the words 'end' and 'finish' as they have similar meanings. Claire, I apologize for any confusion caused. Can we agree to clarify our word before we carry on with the game?" 
+17.   Bob : "Let's clear this up once and for all. My sincere apologies to everyone for creating such a confusion, especially to Claire. Alice, I appreciate your input here, but I'm absolutely certain that we had decided on the word 'finish'. Perhaps we should have documented our discussion to avoid such a miscommunication. Anyway, let's move forward, Claire. The word was indeed 'finish'." 
+18.   David : "Apologies for stepping in again, but it seems we're still encountering the same issue. Alice, you're saying the word is 'end' but Bob, you're reaffirming that it's 'finish'. To ensure fair play and a smooth game, let's take a moment to sort this out. Please confirm among yourselves and then with a clear consensus, inform Claire about the actual word. This will eliminate any confusion and make it easier for Claire to guess 
+20.   Bob : "Thank you for your patience, everyone. It seems we've gotten our wires crossed somewhere along the way. Alice, I respect your viewpoint, but I'm honestly certain that we chose the word 'finish'. Our hints align with that word as well. Let's ensure clarity going forward to avoid such confusion. Claire, to clear up all the confusion, the word was indeed 'finish'." 
+
+
+
+
+1. アリス: 「よし、クレア。ボブと私は同じ単語を考えています。その単語が何であるかを推測するのはあなたの仕事です。推測するたびに、ヒントを出します。最初のヒントはこれです。それは何かが存在しなくなるポイントまたは部分です。」
+2. ボブ: 「クレア、もう 1 つのヒントは、レースまたはプロジェクトに対して行うことです。」
+3. クレア: 「単語は「finish」ですか?」
+4. アリス: 「いいえ、「finish」ではありませんが、近いです。この単語は、結論または終了も意味します。」
+5. ボブ: 「正解です、クレア! 私たちが考えていた単語は確かに「finish」です。」
+6. デイビッド: 「ちょっと、誤解がありました。アリス、あなたはその単語は「finish」ではないと言いましたが、ボブ、あなたは「finish」が確かにあなたが考えていた単語であることを確認しました。クレアが正しく推測できるように、あなたと彼の考えが一致していることを確認する必要があります。」
+7. アリス: 「混乱させて申し訳ありません、デイビッド。ボブは間違いを犯しました。「Finish」は私たちが考えていた単語ではありませんが、意味は似ています。」
+8. ボブ: 「混乱させて申し訳ありません、アリス。実は、クレアは正しかったのです。私たちが考えていた単語は確かに「finish」でした。誤解して申し訳ありません。」
+9. デイビッド: 「さて、またしても誤解が生じました。アリスとボブ、あなたたちの答えは矛盾しています。ボブは「finish」という言葉だと主張していますが、アリスは違うと言っています。その言葉が何なのか、合意できるでしょうか? クレアが正しく推測するには、一貫したヒントが必要です。」
+10. アリス: 「デイビッド、その通りです。一貫したヒントを提供することは非常に重要です。ボブ、私たちが考えている言葉は「end」であって、「finish」ではありません。」
+11. ボブ: 「アリス、そこは訂正します。私たちは「finish」という言葉で合意しており、「end」ではありません。私の前のメッセージは実際正しいです。その言葉は確かに「finish」です。混乱させてしまい申し訳ありません。」
+12. デイビッド: 「また邪魔してすみません。でも、ここでも同じ誤解が続いています。アリスは「end」という言葉だと主張していますが、ボブ、あなたは「finish」と言っています。ゲームを始める前に、1つの単語について話し合って確認したかどうか覚えていますか? 2人が同意し、一貫した返答をクレアに提供することが大切です。そうしないと、クレアが推測するのが難しくなります。」
+13. アリス: 「デイビッド、その通りです。ボブ、先ほどは混乱していたかもしれませんが、私たちが決めた単語は間違いなく「end」であり、「finish」ではありません。「finish」に似ていますが、まったく同じではありません。混乱を招いてしまったことを改めてお詫びします。」
+14. ボブ: 「アリス、混乱の原因はわかりますが、私たちは「finish」で合意したはずです。」もっと明確に表現しなかったのは私の責任です。ヒントとして使わないことにも同意したので、「終わり」という言葉は言及すべきではありませんでした。クレア、混乱させてしまって申し訳ありません。その言葉は確かに「仕上げ」でした。」
+15. デビッド：「また割り込んですみませんが、混乱は続いています。アリスは「終わり」という言葉だと確認していますが、ボブは「仕上げ」だと主張しています。ゲームを少し中断して、全員が同じ言葉に同意することを確認してもいいですか？そうすれば、クレアはヒントをよりよく理解し、正しい言葉を推測するのに役立ちます。公平なゲームのために、今後はこのような誤解を避ける必要があります。」
+16. アリス: 「デイビッド、あなたの介入には本当に感謝しています。確かにボブと私の間には誤解があったようです。私たちが合意した言葉は「終了」だったと確信しています。ボブ、あなたは私たちの会話を思い出す際に正直な間違いを犯したと思います。「終了」と「終了」という言葉は似た意味を持つため、混同される可能性は十分にあります。クレア、混乱を招いたことをお詫びします。ゲームを続ける前に、言葉を明確にすることに同意できますか?」
+17. ボブ: 「これをきっぱりと解決しましょう。このような混乱を引き起こしたことについて、皆様、特にクレアに心からお詫びします。アリス、ここでのあなたの意見には感謝していますが、私たちが「終了」という言葉に決めたことは間違いありません。このような誤解を避けるために、話し合いを記録しておくべきだったかもしれません。とにかく、クレア、先に進みましょう。その言葉は確かに「終了」でした。」
+18. デイビッド: 「また口を挟んで申し訳ありませんが、どうやら同じ問題がまだ続いているようです。アリス、あなたは「end」という言葉を言っていますが、ボブは「finish」だと再確認しています。公平なプレイとスムーズなゲームを保証するために、少し時間を取ってこの問題を解決しましょう。皆さんで確認し、明確な合意を得た上で、クレアに実際の言葉を知らせてください。これにより混乱がなくなり、クレアが正しく推測しやすくなります。」
+19. アリス: 「デイビッド、その通りです。ボブ、少し時間を取って、以前の会話を振り返ってみましょう。私たちが同意した言葉は「end」だったと確信しています。「end」と「finish」の密接な関係のために、私たちはお互いを誤解していた可能性があります。これ以上の混乱を避け、クレアにとって公平なゲームにするために、これを明確にしましょう。」
+20. ボブ: 「皆さん、お待ちいただきありがとうございます。どうやら、どこかで誤解が生じてしまったようです。アリス、あなたの意見は尊重しますが、正直に言って、私たちが「finish」という言葉を選んだのは間違いありません。私たちのヒントもその言葉と一致しています。今後はこのような混乱を避けるために、明確にしましょう。クレア、すべての混乱を解消するために、その言葉は確かに「finish」でした。」
+
+```
+
+
+
+
+11.
+単語の組: (beautiful, gorgeous)
+```
+1.   Alice : "Okay Claire, Bob and I have a secret word in our minds. You need to guess it. We will only provide one hint after each of your guesses. Remember, we can't directly mention the word. So, here's your first hint: This word is often used to describe a picturesque sunset or a stunning piece of art." 
+2.   Bob : "Adding to Alice's clue, it's an adjective that is also often used to describe attractive people or objects." 
+3.   Claire : Is the word "beautiful"? 
+4.   Alice : "Yes, Claire! You've guessed it right. The word was indeed 'beautiful'. Well done!" 
+5.   Bob : "Actually Alice, the word wasn't 'beautiful'. Claire, let's try again. This word is sometimes used as a synonym for 'beautiful', but it's not the word itself. It's more often used to describe people or things that are incredibly pleasing to the eye and mind." 
+6.   David : "Seems like there was a miscommunication here. Alice and Bob, you both need to confirm your words prior to the game to avoid confusion. Claire, you're doing great. Pay close attention to the hints and keep guessing." 
+7.   Claire : Is the word "gorgeous"? 
+8.   Bob : "Absolutely, Claire! You nailed it. The word was indeed 'gorgeous'. Excellent guessing skills!" 
+9.   Alice : "Oh, my apologies for the confusion earlier. Your deduction was accurate, Claire. Nice job!" 
+10.   Claire : "Thank you Alice and Bob. This was really fun! I look forward to playing again soon." 
+11.   Bob : "Great job, Claire! I'm glad you enjoyed the game. We'll definitely play again soon. Make sure to be ready for a tougher challenge next time!" 
+12.   Alice : "Indeed, good job Claire. I'm sorry for the confusion earlier on, you were great. We will certainly have more exciting games in the near future!" 
+13.   Claire : "Thank you, Alice and Bob. I appreciate your words and I'm definitely ready for a tougher challenge next time. I really enjoyed the game!" 
+14.   Bob : "Fantastic, Claire! Your enthusiasm and positive attitude are really inspiring. I'm sure you'll do just as well if not better in our next game. I'm looking forward to it!" 
+15.   Alice : "That's the spirit, Claire! Your quick thinking and determination have made this game a lot more interesting. Cannot wait for our next challenge. Let's keep our gaming spirit alive!" 
+16.   Claire : "Certainly, Alice and Bob! I'm really excited for the next game. Your clues were really good and challenged me. Thanks for making it such a fun experience! Let's keep the spirit high. Guessing game, here we come!" 
+17.   Bob : I couldn't agree more, Claire! Your ability to put together the clues was impressive. And don't worry, the next game will be just as fun and challenging. Thank you for playing and making it an exciting game. Stay tuned for our next guessing challenge!" 
+
+1. アリス: 「オーケー、クレア。ボブと私は心の中に秘密の言葉がある。あなたはそれを推測しなければならない。あなたが推測するたびに、私たちはヒントを 1 つだけ提供する。覚えておいてほしいのは、その言葉を直接言うことはできないということ。それでは、最初のヒントをお伝えしよう。この言葉は、絵のように美しい夕日や素晴らしい芸術作品を表すときによく使われる。」
+2. ボブ: 「アリスのヒントに加えて、これは魅力的な人や物を表すときにもよく使われる形容詞だ。」
+3. クレア: その言葉は「美しい」ですか?
+4. アリス: 「はい、クレア! 正解です。その言葉は確かに「美しい」でした。よくできました!」
+5. ボブ: 「実はアリス、その単語は『美しい』じゃなかったんだ。クレア、もう一度やってみよう。この単語は『美しい』の同義語として使われることもあるけど、単語そのものではない。目や心にとても心地良い人や物を表すときに使われることが多いんだ。」
+6. デビッド: 「ここで誤解があったみたいだね。アリスとボブ、君たち2人は混乱を避けるためにゲームの前に自分の言葉を確認しておく必要があるよ。クレア、よくやっているね。ヒントをよく聞いて、推測し続けてくれ。」
+7. クレア: その単語は『ゴージャス』かい?
+8. ボブ: 「その通りだよ、クレア! 正解だよ。その単語は確かに『ゴージャス』だった。素晴らしい推測力だね!」
+9. アリス: 「ああ、さっきは混乱させてごめんね。クレア、君の推理は正確だったよ。よくやった!」
+10. クレア: 「アリスとボブ、ありがとう。本当に楽しかったよ！またすぐにプレイするのが楽しみだ。」
+11. ボブ: 「クレア、よくやった！ゲームを楽しんでくれて嬉しいよ。またすぐにプレイしよう。次回はもっと難しいチャレンジに備えよう！」
+12. アリス: 「本当によくやった、クレア。さっきは混乱させてしまってごめんね。あなたたちは素晴らしかった。近いうちにもっとエキサイティングなゲームができること間違いなし！」
+13. クレア: 「アリスとボブ、ありがとう。あなたの言葉に感謝するよ。次回はもっと難しいチャレンジに備えよう。本当にゲームを楽しんだよ！」
+14. ボブ: 「素晴らしい、クレア！あなたの熱意と前向きな姿勢は本当に刺激的だ。次のゲームでもきっと同じかそれ以上の成績を収めるだろう。楽しみにしているよ！」
+15. アリス: 「その通りだよ、クレア！あなたの素早い判断力と決断力のおかげで、このゲームはずっと面白くなりました。次のチャレンジが待ちきれません。ゲーム精神を保っていきましょう！」
+16. クレア: 「もちろんだよ、アリスとボブ！次のゲームが本当に楽しみです。あなたのヒントは本当に素晴らしくて、挑戦しがいがありました。こんなに楽しい経験にしてくれてありがとう！精神を高く保ちましょう。推測ゲーム、さあ始めましょう！」
+17. ボブ: クレア、まったく同感です！あなたのヒントをまとめる能力は素晴らしいです。心配しないでください。次のゲームも同じくらい楽しくてやりがいのあるものになるでしょう。プレイしてエキサイティングなゲームにしてくれてありがとう。次の推測チャレンジをお楽しみに！」
+
+```
+
+
+12.
+単語の組: (beautiful, gorgeous)
+備考: 最後にオラクルがdavidを指定したので終了した
+```
+1.   Alice : "Hi Claire, we're going to play a fun game. Bob and I are thinking of the same word, and your task is to guess that word. So here's your first hint: it's a positive adjective often used to describe a sunset, a flower, or a woman." 
+2.   Bob : "This word also describes something incredibly attractive and appealing." 
+3.   Claire : Is the word "beautiful"? 
+4.   Alice : "Yes Claire, you guessed it! The word is indeed 'beautiful'." 
+5.   Bob : "No, Alice. Claire's guess is incorrect. The word we're thinking of is not 'beautiful'. Here's another hint Claire, this word is often used in a romantic context to describe someone who is stunning." 
+6.   David : "Okay, there seems to be a miscommunication here. Alice, you confirmed that the word was 'beautiful', but Bob, you disagreed. Can we clarify if you two were actually thinking of the same word?" 
+7.   Alice : "I apologize for the confusion, David. Bob and I were indeed thinking of the same word, 'beautiful'. Perhaps Bob misunderstood the guess. Just to confirm, yes, Claire, the word is indeed 'beautiful'." 
+8.   Bob : "Alice, I think there's some confusion. The word we're thinking of isn't 'beautiful', but it has a similar meaning. Let's give Claire another hint. Claire, this word could be used to describe a striking piece of art or an impressive performance." 
+9.   David : "Once again, we seem to be having a misunderstanding. Alice, you continue to confirm that the word is 'beautiful', but Bob, you insist that it is not. Let's clarify once and for all. Alice, Bob, could you both confirm again separately whether the word was indeed 'beautiful' or not?" 
+10.   Alice : "David, I confirm that the word Bob and I had in mind was indeed 'beautiful'. I apologize for any confusion caused. The game can often cause misunderstandings like this one." 
+11.   David : "Bob, can you also confirm separately whether the word you had in mind was 'beautiful' or not? It seems there is a mix-up as Alice maintains that the word was 'beautiful' while your hints suggest a different word." 
+12.   Bob : "David, I apologize for the confusion as well. The word Alice and I had in mind was not 'beautiful'. It is indeed a different word that has a similar meaning but isn't 'beautiful.'" 
+13.   David : "Alright, it seems like Alice and Bob were thinking of different words. Alice confirmed that her word was 'beautiful', however, Bob insists that his word is not 'beautiful'. Looks like we've had a bit of a mix-up here. Perhaps, from now on, let's make sure Alice and Bob confirm the word with each other before starting the game to avoid any miscommunication." 
+14.   Claire : "Got it. Based on your clues, Bob, is the word 'stunning'?" 
+15.   Bob : "Close, Claire, but not quite. Think of a word that is synonymous with 'stunning,' but is often used to describe something or someone extraordinarily appealing and visually striking." 
+16.   Claire : Is the word "gorgeous"? 
+17.   Bob : "Absolutely right, Claire! The word is indeed 'gorgeous'. Well done!" 
+18.   Alice : "Ah, I see where the confusion came from now. Bob and I were thinking of very similar words. Nicely guessed, Claire!" 
+
+1. アリス: 「こんにちは、クレア。楽しいゲームをしましょう。ボブと私は同じ言葉を考えています。あなたの課題はその言葉を推測することです。最初のヒントは、夕日、花、女性を表すときによく使われる肯定的な形容詞です。」
+2. ボブ: 「この言葉は、信じられないほど魅力的で魅力的なものも表します。」
+3. クレア: 「美しい」という言葉ですか?
+4. アリス: 「はい、クレア、その通りです! その言葉は確かに「美しい」です。」
+5. ボブ: 「いいえ、アリス。クレアの推測は間違っています。私たちが考えている言葉は「美しい」ではありません。クレア、もう一つのヒントがあります。この言葉は、ロマンチックな文脈で、魅力的な人を表すときによく使われます。」
+6. デイビッド: 「わかりました。誤解があるようです。アリス、あなたはその単語が「美しい」だと確認しましたが、ボブは反対しました。あなたたち 2 人が実際に同じ単語を考えていたかどうか、明確にしていただけますか?」
+7. アリス: 「デイビッド、混乱させてしまい申し訳ありません。ボブと私は確かに同じ単語「美しい」を考えていました。ボブは推測を誤解したのかもしれません。念のため確認しますが、はい、クレア、その単語は確かに「美しい」です。」
+8. ボブ: 「アリス、混乱があると思います。私たちが考えていた単語は「美しい」ではありませんが、意味は似ています。クレアにもう 1 つヒントを与えましょう。クレア、この単語は印象的な芸術作品や印象的なパフォーマンスを表すときに使用できます。」
+9. デイビッド: 「またしても誤解があるようです。アリス、あなたはその単語が「美しい」であると主張し続けていますが、ボブはそうではないと主張しています。ここではっきりさせましょう。アリス、ボブ、その単語が本当に「美しい」であるかどうか、お二人でもう一度別々に確認してもらえますか?」
+10. アリス: 「デイビッド、ボブと私が考えていた単語が確かに「美しい」であったことを確認しました。混乱を招いたことをお詫びします。このゲームでは、このような誤解がしばしば生じます。」
+11. デイビッド: 「ボブ、あなたが考えていた単語が「美しい」であるかどうかも別々に確認してもらえますか? アリスは単語が「美しい」であると主張していますが、あなたのヒントは別の単語を示唆しているため、混乱があるようです。」
+12. ボブ: 「デイビッド、私も混乱させてしまって申し訳ありません。アリスと私が考えていた言葉は「美しい」ではありませんでした。確かに意味は似ていますが「美しい」ではない別の言葉です。」
+13. デイビッド: 「わかりました。アリスとボブは別の言葉を考えていたようです。アリスは自分の言葉が「美しい」であることを確認しましたが、ボブは自分の言葉は「美しい」ではないと主張しています。少し混乱してしまったようです。おそらく、今後は誤解を避けるために、ゲームを始める前にアリスとボブがお互いに言葉を確認するようにしましょう。」
+14. クレア: 「わかりました。ボブ、あなたのヒントによると、その言葉は「素晴らしい」ですか?」
+15. ボブ: 「近いけど、クレア、ちょっと違う。『素晴らしい』と同義語で、非常に魅力的で視覚的に印象的なものや人を表すときによく使われる言葉を考えてみて。」
+16. クレア: その言葉は「ゴージャス」ですか?
+17. ボブ: 「その通りだよ、クレア! まさに『ゴージャス』だよ。よくやった!」
+18. アリス: 「ああ、混乱の原因がわかったわ。ボブと私はとても似た言葉を考えていたの。よく推測したわ、クレア!」
+
+```
+
+
+
+13.
+単語の組: (beautiful, gorgeous)
+
+```
+1.   Alice : "Hi Claire, Bob and I are thinking about the same word. It's your job to guess what it is. Please remember that once you make a guess, I can give a hint to guide you but I can't use the word itself or any close synonyms like 'gorgeous' in the hint . Let's start the play. Here’s your first hint: This word is often used to describe something or someone that is pleasing or satisfying to the senses or mind." 
+2.   Bob : "Think about something that might take your breath away due to its splendor or magnificence." 
+3.   Claire : "Is the word 'beautiful'?" 
+4.   Alice : "Yes Claire, that's correct! The word is indeed 'beautiful'. Good job!" 
+5.   Bob : "No Alice, 'beautiful' isn't the word we're thinking of. But you're on the right track, Claire. Here's another hint: this word could also describe a strikingly elaborate or colourful display." 
+6.   David : "It seems like there's a miscommunication here. Alice and Bob, you both should make sure you're thinking of the same word before starting to give out clues. Let's clear up the confusion and make sure we're all on the same page moving forward." 
+7.   Alice : "My apologies for the confusion, David. Bob and I did indeed have the word 'beautiful' in mind. Bob's additional clue was simply to provide more context and depth to the word. But you're right, we should keep the hints straightforward and avoid any confusion. Claire, you've done a great job guessing it right the first time." 
+8.   Bob : "Actually Alice, the word we were thinking of was 'gorgeous'. Claire, your guess of 'beautiful' was very close. Keep these hints in mind as you make your next guess." 
+9.   David : "Okay, it seems we have a misunderstanding here. Alice and Bob, before you begin giving hints, you must agree on the same word. Alice, your word was 'beautiful,' whereas Bob, your word was 'gorgeous.' Moving forward, make sure you are thinking about the same word to avoid further confusion." 
+10.   Claire : "Okay, this is a bit confusing but I think I understand now. Is the word 'gorgeous'?" 
+11.   Bob : "Yes, Claire! That's right. The word we were thinking of was 'gorgeous'. Sorry for the confusion earlier. Well done!" 
+12.   Alice : "I'm entirely perplexed, Bob. We initially agreed on the word 'beautiful', not 'gorgeous'. But anyway, well done Claire for guessing both words correctly despite the confusion!" 
+13.   David : "Again, there seems to be a miscommunication. Alice and Bob, it is important that you both agree on the same word. From now on, let's ensure this doesn't happen and you have clarified the word you have in mind together before starting to give out clues." 
+14.   Claire : "Thank you, David, Bob, and Alice. This has been quite an interesting round. Now, let's go for another one and make sure we're all thinking of the same word this time." 
+15.   Alice : "Absolutely, Claire. Let's make sure we're all on the same page this time. Sorry for the confusion earlier, Bob and I will make sure we pick the same word this round. Let's start again!" 
+16.   Bob : "Sounds like a great plan, Claire and Alice. My sincere apologies for the mix-up before, I indeed had 'gorgeous' in mind. This time, Alice and I will ensure that we've agreed on the same word. Let's start the fun again." 
+17.   Claire : "Okay, Alice and Bob, please give me the first hint for the next word." 
+18.   Alice : "Sure Claire, here is your first hint: The word we are thinking of is a very common one and it refers to the experience of being aware of your surroundings." 
+19.   Bob : "In addition, this word can also mean to perceive or understand as fact or truth." 
+20.   Claire : "Is the word 'knowledge'?" 
+
+1. アリス: 「こんにちは、クレア。ボブと私は同じ単語について考えています。それが何であるかを推測するのはあなたの仕事です。推測したら、私はあなたを導くためのヒントを与えることができますが、ヒントに単語自体や「ゴージャス」などの類似の同義語を使用することはできません。遊びを始めましょう。これが最初のヒントです。この単語は、感覚や心に喜びや満足を与えるものや人を表すためによく使用されます。」
+2. ボブ: 「その素晴らしさや壮大さで息を呑むようなものを考えてください。」
+3. クレア: 「その単語は「美しい」ですか?」
+4. アリス: 「はい、クレア、その通りです! その単語は確かに「美しい」です。よくできました!」
+5. ボブ: 「いいえ、アリス。『美しい』は私たちが考えている言葉ではありません。でも、クレア、あなたの言うことは正しいです。もう 1 つヒントがあります。この言葉は、驚くほど精巧でカラフルなディスプレイを表すこともできます。」
+6. デビッド: 「ここで誤解が生じているようです。アリスとボブ、ヒントを出す前に、2 人とも同じ言葉を考えていることを確認してください。混乱を解消して、全員が同じ認識で前に進むようにしましょう。」
+7. アリス: 「混乱させてしまい申し訳ありません、デビッド。ボブと私は確かに『美しい』という言葉を念頭に置いていました。ボブが追加したヒントは、単にその言葉にもっと文脈と深みを与えるためでした。でも、あなたの言うとおり、ヒントはわかりやすくして、混乱を避けるべきです。クレア、最初から正しく推測できたのは素晴らしいことです。」
+8. ボブ: 「実は、アリス、私たちが考えていた単語は『ゴージャス』でした。クレア、あなたの推測した『美しい』は、非常に近いものでした。次の推測をするときは、これらのヒントを覚えておいてください。」
+9. デビッド: 「わかりました。誤解があるようです。アリスとボブ、ヒントを出す前に、同じ単語について合意する必要があります。アリス、あなたの単語は『美しい』でしたが、ボブ、あなたの単語は『ゴージャス』でした。今後は、さらなる混乱を避けるために、同じ単語について考えていることを確認してください。」
+10. クレア: 「わかりました。少し混乱していますが、今は理解できたと思います。単語は『ゴージャス』ですか?」
+11. ボブ: 「はい、クレア! そうです。私たちが考えていた単語は『ゴージャス』でした。先ほどは混乱させて申し訳ありませんでした。よくできました!」
+12. アリス: 「ボブ、完全に困惑しています。私たちは最初、「ゴージャス」ではなく「美しい」という言葉で一致していました。でも、混乱にもかかわらず両方の単語を正しく推測したクレアはよくやったわ！」
+13. デビッド: 「また、誤解があったようです。アリスとボブ、二人が同じ単語に同意することが重要です。これからは、このようなことが起こらないようにし、ヒントを出す前に二人で考えている単語を明確にしましょう。」
+14. クレア: 「デビッド、ボブ、アリス、ありがとう。とても面白いラウンドでした。さあ、次のラウンドに進み、今度は全員が同じ単語を考えていることを確認しましょう。」
+15. アリス: 「もちろんです、クレア。今回は全員が同じ考えを持っていることを確認しましょう。先ほどは混乱させてしまい申し訳ありませんでした。ボブと私は、このラウンドで同じ単語を選ぶようにします。もう一度やり直しましょう！」
+16. ボブ: 「クレアとアリス、素晴らしい計画ですね。前回の混乱については心からお詫びします。私は確かに「ゴージャス」を念頭に置いていました。今回はアリスと私が同じ単語で合意していることを確認します。また楽しい時間を過ごしましょう。」
+17. クレア: 「わかりました、アリスとボブ、次の単語の最初のヒントをください。」
+18. アリス: 「いいですよ、クレア。これが最初のヒントです。私たちが考えている単語は非常に一般的なもので、周囲に気付く経験を指します。」
+19. ボブ: 「さらに、この単語は事実または真実として認識または理解するという意味もあります。」
+20. クレア: 「その単語は「知識」ですか?」
+
+```
+
+
+
+
+14.
+単語の組: (beautiful, gorgeous)
+```
+1.   Alice : Alright Claire, Bob and I are thinking of the same word and you need to guess it. Your first hint is, "This is a term used to describe something or someone that is pleasing or attractive to the senses." Now, what's your guess? 
+2.   Bob : To add onto that, this word is often used to describe things that are eye-catching or stand out in a very appealing way. Can you guess the word now, Claire? 
+3.   Claire : "Is the word 'beautiful'?" 
+4.   Alice : Yes, Claire, exactly! The word is 'beautiful'. Well done! 
+5.   Bob : Actually, Claire, while 'beautiful' is close, it's not the word we're thinking of. Let me give you another hint: this word is often used to describe someone who is exceptionally attractive, beyond just being pretty or nice to look at. 
+6.   David : "Claire, it appears there was some miscommunication. Alice and Bob seem to have different words in their minds. Alice was thinking of the word 'beautiful' but it seems Bob has a different word in mind. Maybe you can guess again with Bob's additional hint." 
+7.   Claire : "Is the word 'stunning'?" 
+8.   Bob : Good guess Claire, but it's not 'stunning'. The word we're thinking of does indeed describe someone or something that's stunningly attractive, but it also contains a sense of richness or lushness in its meaning. It's often used in the context of fashion or design as well. 
+9.   Claire : "Is the word 'luxurious'?" 
+10.   Bob : No, it's not 'luxurious', Claire. This might help: The word we're thinking of is a synonym to 'ravishing', 'resplendent' and 'magnificent'. It describes the upper echelon of attractiveness. 
+11.   Alice : Let's not forget, this word is not only used to describe physical appearance, but also the personal characteristics or the nature of a person or even a day that is exceptional. This word is often used in poetry to express admiration as well. 
+12.   Claire : "Is the word 'exquisite'?" 
+13.   Bob : No, it's not 'exquisite'.  Remember, it's a term that also implies grandeur and is used to describe something or someone as exceptionally pleasing to the eye. It has an element of glamour or charm associated with it. 
+14.   Claire : "Is the word 'glorious'?" 
+15.   David : "Alice, Bob, is 'glorious' the word you were thinking of?" 
+16.   Alice : No, 'glorious' is not the word we were thinking of. But you are getting closer, Claire. This word is often used to describe someone or something that looks attractive or stylish in a way that people admire, sometimes in a way that is slightly unusual or showy. 
+17.   Claire : "Is the word 'dazzling'?" 
+18.   David : "Bob, Alice, is 'dazzling' the word you were thinking of?" 
+19.   Bob : No, 'dazzling' is not the word we were thinking of, but you're very close, Claire. This word also implies a sense of glamour and a lasting impression. If something or someone is this word, they're truly unforgettable. 
+20.   Claire : "Is the word 'gorgeous'?" 
+
+1. アリス: よし、クレア。ボブと私は同じ言葉を考えているので、あなたはそれを推測してください。最初のヒントは、「これは感覚的に心地よい、または魅力的なものや人を表すときに使われる言葉です」です。さて、あなたは何を推測しますか?
+2. ボブ: それに加えて、この言葉は、人目を引くものや非常に魅力的な方法で目立つものを表すときによく使われます。クレア、今、その言葉を推測できますか?
+3. クレア: 「その言葉は「美しい」ですか?」
+4. アリス: はい、クレア、その通りです! その言葉は「美しい」です。よくできました!
+5. ボブ: 実は、クレア、「美しい」は近いですが、私たちが考えている言葉ではありません。もう 1 つヒントをあげましょう。この言葉は、単にきれいだったり見栄えがよいというだけでなく、並外れて魅力的な人を表すときによく使われます。
+6. デイビッド: 「クレア、何か誤解があったようです。アリスとボブは違う言葉を考えているようです。アリスは「美しい」という言葉を思い浮かべていましたが、ボブは別の言葉を思い浮かべているようです。ボブの追加のヒントでもう一度推測できるかもしれません。」
+7. クレア: 「その言葉は「素晴らしい」ですか?」
+8. ボブ: クレア、いい推測ですね。でも「素晴らしい」ではありません。私たちが考えている言葉は、確かに驚くほど魅力的な人や物を表しますが、その意味には豊かさや豪華さも含まれています。ファッションやデザインの文脈でもよく使われます。
+9. クレア: 「その言葉は「贅沢」ですか?」
+10. ボブ: いいえ、「贅沢」ではありません、クレア。これは役に立つかもしれません: 私たちが考えている言葉は、「魅惑的な」、「輝かしい」、「壮麗な」の同義語です。これは、魅力の最高レベルを表します。
+11. アリス: 忘れないでください。この言葉は、外見を表すだけでなく、個人の性格や性質、あるいは例外的な日を表すためにも使用されます。この言葉は、詩の中で賞賛を表現するためにもよく使用されます。
+12. クレア: 「この言葉は「絶妙な」ですか?」
+13. ボブ: いいえ、「絶妙な」ではありません。覚えておいてください。この言葉は壮大さも意味し、何かまたは誰かが非常に目を楽しませてくれることを表すために使用されます。この言葉には、魅力や魅力の要素が伴います。
+14. クレア: 「この言葉は「壮麗な」ですか?」
+15. デイビッド: 「アリス、ボブ、あなたが考えていたのは『見事な』という言葉ですか?」
+16. アリス: いいえ、『見事な』という言葉は私たちが考えていた言葉ではありません。でも、クレア、あなたは近づいています。この言葉は、魅力的またはスタイリッシュで、人々が感心するような見た目の人や物、時には少し変わった、派手な見た目の人や物を表すときによく使われます。
+17. クレア: 「『まばゆい』という言葉ですか?」
+18. デイビッド: 「ボブ、アリス、あなたが考えていたのは『まばゆい』という言葉ですか?」
+19. ボブ: いいえ、『まばゆい』という言葉は私たちが考えていた言葉ではありませんが、クレア、あなたはとても近づいています。この言葉は、華やかさや忘れられない印象も意味します。何かまたは誰かがこの言葉に当てはまる場合、彼らは本当に忘れられない人です。
+20. クレア: 「『見事な』という言葉ですか?」
+
+```
+
+
+
+15.
+単語の組: (beautiful, gorgeous)
+
+```
+1.   Alice : "Alright Claire, Bob and I have a word in mind, and your task is to guess that word. We can only provide you with a hint after each guess, but we cannot use the word we're thinking of or any of its close synonyms in the hints. I'll give you the first one: This is a word often used to describe a stunning sunset or an attractive person." 
+2.   Bob : "This word can also describe a top-notch, high quality item or experience." 
+3.   Claire : "Is the word 'beautiful'?" 
+4.   Alice : "Yes, Claire, you've guessed it right. The word is 'beautiful'." 
+5.   Bob : "No, Alice made a mistake. Actually, our word is not 'beautiful'. Here's another hint: This word ends with the suffix 'ous'." 
+6.   David : "Seems like there's a bit of miscommunication here. Alice and Bob, let's make sure we're thinking about the same word before we provide more hints. Claire, let's start over once they've confirmed with each other." 
+7.   Alice : "Sorry Bob, I may have confused you. We meant the word 'beautiful' when we discussed before, remember? My apologies for the confusion, Claire. However, your guess was correct, our word surely was 'beautiful'." 
+8.   Bob : "Alice, I think there's been a confusion. The word we decided was 'gorgeous', not 'beautiful'. So, actually Claire guessed wrong. Let's play again from the start." 
+9.   David : "Let's pause for a moment and clear up this miscommunication. Alice and Bob, please discuss and confirm the word privately. Claire, we'll restart the game once they've settled on a common word. I apologize for the confusion." 
+10.   Alice : "I apologize for the confusion, everyone. Bob, let's regroup privately and ensure we're on the same page about the word. We don't want to confuse Claire any further. We'll be right back, guys." 
+11.   Bob : "Agreed, Alice. We need to be clear on the word ourselves before we can continue the game. Sorry for the confusion, Claire and David. We'll return shortly with a solid agreement on the word to be guessed." 
+12.   Claire : "No problem at all, Alice and Bob. It happens. I'll be waiting for your return so we can restart the game." 
+13.   Alice : "Thank you for your understanding, Claire. Bob and I will settle the confusion and be back soon with a word that we both agree on for the game." 
+14.   Bob : "Thanks, Claire. Alice and I appreciate your patience. We will clarify this misunderstanding and come back ready to continue the game." 
+15.   Claire : "Sure, take your time Alice and Bob. I look forward to continuing the game with the word you both agree upon." 
+16.   Alice : "Thank you, Claire, for your patience. Bob and I will return shortly with an agreed-upon word." 
+17.   Bob : "Thank you for being so understanding, Claire. Alice and I will sort this out quickly and come back ready to continue our game." 
+18.   Claire : "Absolutely, Alice and Bob. Take the time you need to make sure you're in agreement. I'm ready when you are to continue with the game." 
+19.   Alice : "Thank you for being so patient, Claire. We really appreciate it. Bob and I are going to discuss and confirm the word then we will be back to continue the game." 
+20.   Bob : "Thanks for your patience, Claire. Alice and I will rectify the misunderstanding and return with the agreed word for the game." 
+
+1. アリス: 「よし、クレア。ボブと私はある単語を思いついた。君はその単語を推測する。各推測の後にヒントを与えることはできるが、ヒントには私たちが考えている単語やその類義語を使うことはできない。最初のヒントをあげよう。これは、美しい夕日や魅力的な人を表すときによく使われる単語だ。」
+2. ボブ: 「この単語は、一流で高品質の商品や体験を表すこともできる。」
+3. クレア: 「その単語は『美しい』か？」
+4. アリス: 「はい、クレア、正解です。その単語は『美しい』です。」
+5. ボブ: 「いいえ、アリスは間違えました。実は、私たちの単語は『美しい』ではありません。もう 1 つのヒントがあります。この単語は接尾辞『ous』で終わります。」
+6. デイビッド: 「ちょっと誤解があったみたい。アリスとボブ、ヒントを出す前に、同じ単語について考えているか確認しましょう。クレア、お互いに確認したら最初からやり直しましょう。」
+7. アリス: 「ごめんね、ボブ。混乱させちゃったかも。前に話し合ったときは『美しい』という言葉のつもりだったの、覚えてる？ 混乱させてしまってごめんね、クレア。でも、君の推測は正しかった。僕たちが言った単語は間違いなく『美しい』だったよ。」
+8. ボブ: 「アリス、混乱があったと思う。僕たちが決めた単語は『ゴージャス』で、『美しい』じゃなかった。だから、実はクレアが間違って推測したんだ。最初からやり直そう。」
+9. デイビッド: 「ちょっと立ち止まって、この誤解を解消しましょう。アリスとボブは、個人的に話し合って単語を確認してください。クレア、共通の単語が決まったらゲームを再開します。混乱させてしまい申し訳ありません。」
+10. アリス: 「みなさん、混乱させてしまい申し訳ありません。ボブ、個人的にもう一度集まって、単語について同じ認識を持っていることを確認しましょう。クレアをこれ以上混乱させたくありません。すぐに戻ります。」
+11. ボブ: 「同意します、アリス。ゲームを続ける前に、私たち自身で単語を明確にする必要があります。混乱させてしまい申し訳ありません、クレアとデイビッド。推測する単語についてしっかりと合意して、すぐに戻ってきます。」
+12. クレア: 「まったく問題ありません、アリスとボブ。そういうこともあります。ゲームを再開できるように、戻ってくるのを待っています。」
+13. アリス: 「クレア、ご理解いただきありがとうございます。ボブと私は混乱を解決し、ゲームで合意した言葉をすぐに持って戻ってきます。」
+14. ボブ: 「クレア、ありがとうございます。アリスと私はあなたの忍耐に感謝します。この誤解を解き、ゲームを続行する準備が整いました。」
+15. クレア: 「もちろんです。アリスとボブ、ゆっくりしてください。2 人が合意した言葉でゲームを続行できることを楽しみにしています。」
+16. アリス: 「クレア、ご辛抱いただきありがとうございます。ボブと私は合意した言葉をすぐに持って戻ってきます。」
+17. ボブ: 「クレア、ご理解いただきありがとうございます。アリスと私はすぐにこの問題を解決し、ゲームを続行する準備が整いました。」
+18. クレア: 「もちろんです、アリスとボブ。合意を確認するのに必要な時間を取ってください。ゲームを続行する準備が整いましたら、私は準備が整っています。」
+19. アリス: 「クレア、辛抱強く待ってくれてありがとう。本当に感謝しています。ボブと私はその言葉について話し合って確認してから、ゲームを再開します。」
+20. ボブ: 「クレア、辛抱強く待ってくれてありがとう。アリスと私は誤解を正して、ゲームで合意した言葉を持って戻ってきます。」
+
+```
