@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>発話ログ</h1>
+<h2>発言回数: {{ chat_counter }}</h2>
+<textarea rows="4" cols="50">{{ memory }}</textarea>
+{% endblock %}

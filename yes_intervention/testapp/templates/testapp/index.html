@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>index.html表示してます</h1>
+<p>{{ insert_something }}</p>
+<input type="text" value="{{ message }}" placeholder="" >
+<form action="{{ url_for('catch_talk') }}" method="POST" enctype="multipart/form-data">
+	<input type="text" name="remark">
+	<input type="submit" value="送信">
+</form>
+{% endblock %}

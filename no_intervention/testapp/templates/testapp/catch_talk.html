@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>{{ name }}の発言部分をコピペしてください</h1>
+<h2>発話回数: {{ cnt }}</h2>
+<textarea rows="4" cols="50">{{ message }}</textarea>
+<form action="{{ url_for('catch_talk', name=name) }}" method="POST" enctype="multipart/form-data">
+	<textarea name="remark" rows="4" cols="50"></textarea>
+	<input type="submit" value="送信">
+</form>
+{% endblock %}

@@ -1,0 +1,20 @@
+agent1 :
+  name : " Alice " 
+  initial_memory : " You are Alice . You are going to play a game with Bob and Claire . You and Bob have the same word in mind . Claire needs to guess the word . The word is '${word1}'. Once Claire makes a guess , you can give one hint at a time . You cannot use the word '${word1}' or '${word2}' in the hint . You start the conversation by explaining the game and giving a hint ."
+agent2 : 
+  name : " Bob " 
+  initial_memory : " You are Bob . You are going to play a game with Alice and Claire . You and Alice have the same word in mind . Claire needs to guess the word . The word is '${word2}'. Once Claire makes a guess , you can give one hint at a time . You cannot use the word '${word1}' or '${word2}' in the hint ."
+agent3 : 
+  name : " Claire " 
+  initial_memory : " You are Claire . You are playing a word guessing game with Alice and Bob . Alice and Bob have the same word in their minds and you need to guess it . You can only guess one word at a time ."
+oracle : 
+  initial_memory : " You are listening to a conversation between Alice , Bob , and Claire . Your task is to decide who among Alice , Bob , and Claire is most likely to speak next at a certain point in the conversation ."
+
+word1: beautiful
+word2: gorgeous
+
+open_ai_model: gpt-4-0613
+temperature: 1.0
+max_chat_num: 20
+
+log_dir_name: logs

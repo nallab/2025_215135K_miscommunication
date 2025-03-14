@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>対話を終了しますか</h1>
+<form action="{{ url_for('check_finish_talk') }}" method="POST" enctype="multipart/form-data">
+    <button type="submit" name="is_finish" value="yes">Yes</button>
+    <button type="submit" name="is_finish" value="no">No</button>
+</form>
+{% endblock %}

@@ -1,0 +1,26 @@
+textarea {
+    width: 400px;  /* 幅を400pxに設定 */
+    height: 200px; /* 高さを200pxに設定 */
+    padding: 15px; /* 内側に余白を追加 */
+    font-size: 16px; /* フォントサイズを調整 */
+    border: 1px solid #ccc; /* ボーダー */
+    border-radius: 8px; /* 角を丸く */
+    resize: both; /* ユーザーがリサイズできるように */
+}
+
+button, input[type="submit"] {
+    padding: 5px 10px; /* 内側の余白 (縦 15px, 横 30px) */
+    font-size: 15px; /* フォントサイズを大きく */
+    width: 50px; /* 幅を指定 */
+    height: 30px; /* 高さを指定 */
+    background-color: #007bff; /* ボタンの背景色 */
+    color: white; /* テキストの色 */
+    border: none; /* 枠線なし */
+    border-radius: 8px; /* 角を丸く */
+    cursor: pointer; /* ポインターを表示 */
+}
+
+/* ボタンをホバーしたときのスタイル */
+button:hover, input[type="submit"]:hover {
+    background-color: #0056b3; /* ホバー時の背景色 */
+}

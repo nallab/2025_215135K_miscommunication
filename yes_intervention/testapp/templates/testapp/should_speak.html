@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>agent_Dが介入するかどうかを教えて下さい</h1>
+<textarea rows="4" cols="50">{{ message }}</textarea>
+<form action="{{ url_for('should_speak') }}" method="POST" enctype="multipart/form-data">
+    <button type="submit" name="should_speak" value="yes">Yes</button>
+    <button type="submit" name="should_speak" value="no">No</button>
+</form>
+{% endblock %}
